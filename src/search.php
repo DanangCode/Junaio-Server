@@ -24,7 +24,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
      <description><![CDATA[731 Henry]]></description>
 
 
-     <l>37.805715,-122.297595,0</l>
+     <l>37.806173,-122.296007,0</l>
      <o>0,0,0</o>
 
      <minaccuracy/>
