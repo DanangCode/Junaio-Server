@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><results>
+<poi id="poi3" interactionfeedback="click">
+<name><![CDATA[Ein Ballon]]></name>
+<author>metaio GmbH</author>
+<l>48.161036,11.55107,0</l>
+<o>0,0,0</o>
+<mime-type>model/md2</mime-type>
+<mainresource>http://www.junaio.com/publisherDownload/tutorial/balloon.md2_enc</mainresource>
+<route>false</route>
+<s>30</s>
+<force3d>true</force3d>
+<resources>
+	<resource>http://www.junaio.com/publisherDownload/tutorial/balloon.png</resource> 
+</resources>
+<behaviours>
+	<behaviour type="idle">
+		<length>0</length>
+		<node_id>action</node_id>
+	</behaviour> 
+</behaviours>
+</poi>
+</results>
