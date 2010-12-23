@@ -17,69 +17,59 @@
  
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
 <results>
-   <poi id=\"1\" interactionfeedback=\"none\">
+
+  <poi id=\"2\" interactionfeedback=\"none\">
+     <name><![CDATA[jasper]]></name>
+
+     <description><![CDATA[731 Henry]]></description>
+
+
+     <l>37.805715,-122.297595,0</l>
+     <o>0,0,0</o>
+
+     <minaccuracy/>
+             <maxdistance/>
+             <mime-type>model/md2</mime-type>
+             <mainresource>http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc</mainresource>
+             <!-- force3d determines whether the 3D model will be rendered right away, or a default poi with a \"load 3D Model\" in the description shall be shown -->
+             <force3d>true</force3d>
+             <s>1</s>
+             <behaviours>
+                <behaviour type=\"idle\">
+                   <!-- LENGTH: 0 for looping, amount of frames otherwise -->
+                   <length>0</length>
+                   <!-- NODE_ID: name of the animation in the 3D model -->
+                   <node_id>frame</node_id>
+                </behaviour>
+             </behaviours>
+             <resources>
+                <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
+             </resources>
+             <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
+             <icon>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</icon>
+             <homepage>http://www.metaio.com/</homepage>         
+    </poi>
+            
+            
+            
+<poi id=\"1\" interactionfeedback=\"none\">
     <name><![CDATA[The Erotics Of Everyday Life]]></name>
     
     <description><![CDATA[Mama Buzz]]></description>  
 
 
-    <l>37.812844,-122.268713,0</l>
+    <l>37.805715,-122.297595,0</l>
     <o>0,0,0</o>
     
   <minaccuracy/>
          <maxdistance/>
-         <mime-type>model/md2</mime-type>
-         <mainresource>http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc</mainresource>
-         <!-- force3d determines whether the 3D model will be rendered right away, or a default poi with a \"load 3D Model\" in the description shall be shown -->
-         <force3d>true</force3d>
-         <s>1</s>
-         <behaviours>
-            <behaviour type=\"idle\">
-               <!-- LENGTH: 0 for looping, amount of frames otherwise -->
-               <length>0</length>
-               <!-- NODE_ID: name of the animation in the 3D model -->
-               <node_id>frame</node_id>
-            </behaviour>
-         </behaviours>
-         <resources>
-            <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
-         </resources>
-
-
-    <thumbnail>http://ardevcamp.junaio.com/Tutorial/html/resources/logo.jpg</thumbnail>
-    <icon>http://ardevcamp.junaio.com/Tutorial/html/resources/icon.jpg</icon> 
+         <mime-type>image/png</mime-type>
+         <mainresource>http://hyperlocative.appspot.com/static/jasper_200.png</mainresource>
+         
+    <thumbnail>http://hyperlocative.appspot.com/static/jasper_100.png</thumbnail>
+    <icon>http://hyperlocative.appspot.com/static/jasper_100.png</icon> 
 </poi>
- <poi id=\"2\" interactionfeedback=\"none\">
-    <name><![CDATA[jasper]]></name>
 
-    <description><![CDATA[731 Henry]]></description>
-
-
-    <l>37.806156,-122.29708,0</l>
-    <o>0,0,0</o>
-
-    <minaccuracy/>
-            <maxdistance/>
-            <mime-type>model/md2</mime-type>
-            <mainresource>http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc</mainresource>
-            <!-- force3d determines whether the 3D model will be rendered right away, or a default poi with a \"load 3D Model\" in the description shall be shown -->
-            <force3d>true</force3d>
-            <s>1</s>
-            <behaviours>
-               <behaviour type=\"idle\">
-                  <!-- LENGTH: 0 for looping, amount of frames otherwise -->
-                  <length>0</length>
-                  <!-- NODE_ID: name of the animation in the 3D model -->
-                  <node_id>frame</node_id>
-               </behaviour>
-            </behaviours>
-            <resources>
-               <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
-            </resources>
-            <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
-            <icon>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</icon>
-            <homepage>http://www.metaio.com/</homepage>         
-           </poi>
  <poi id=\"3\" interactionfeedback=\"none\">
     <name><![CDATA[jasper 2]]></name>
 
