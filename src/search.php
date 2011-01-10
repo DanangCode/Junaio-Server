@@ -38,10 +38,10 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
           </behaviours>
           <customizations>
                 <customization>
-                   <name>Name</name>
+                   <name>podcast</name>
                    <type>sound</type>
                 
-                   <node_id>IDLE</node_id>
+                   <node_id>[IDLE]</node_id>
                    <value><![CDATA[http://posterous.com/getfile/files.posterous.com/jaspergregory/dYYL1e0uXkj4guzff8sRwz8Hl8G6hNe8NFWhoBusxOUBrPKq9FwYvihzfeyP/parallelsf-1.mp3]]></value>
                 </customization>
              </customizations>
