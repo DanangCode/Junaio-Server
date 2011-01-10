@@ -21,34 +21,35 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
   <poi id=\"2\" interactionfeedback=\"none\">
      <name><![CDATA[jasper]]></name>
 
-     <description><![CDATA[731 Henry]]></description>
+     <description><![CDATA[3d model]]></description>
 
 
      <l>37.867129,-122.263541,0</l>
-     <o>0,0,0</o>
 
-     <minaccuracy/>
-             <maxdistance/>
-             <mime-type>model/md2</mime-type>
-             <mainresource>http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc</mainresource>
-             <!-- force3d determines whether the 3D model will be rendered right away, or a default poi with a \"load 3D Model\" in the description shall be shown -->
-             <force3d>true</force3d>
-             <s>1</s>
-             <behaviours>
-                <behaviour type=\"idle\">
-                   <!-- LENGTH: 0 for looping, amount of frames otherwise -->
-                   <length>0</length>
-                   <!-- NODE_ID: name of the animation in the 3D model -->
-                   <node_id>frame</node_id>
-                </behaviour>
-             </behaviours>
-             <resources>
-                <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
-             </resources>
-             <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
-             <icon>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</icon>
-             <homepage>http://www.metaio.com/</homepage>         
-    </poi>
+     <o>0,0,0</o>
+           <minaccuracy/>
+           <maxdistance/>
+           <mime-type>model/md2</mime-type>
+           <mainresource>http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc</mainresource>
+           <!-- force3d determines whether the 3D model will be rendered right away, or a default poi with a \"load 3D Model\" in the description shall be shown -->
+           <force3d>true</force3d>
+           <s>1</s>
+           <behaviours>
+              <behaviour type=\"idle\">
+                 <!-- LENGTH: 0 for looping, amount of frames otherwise -->
+                 <length>0</length>
+                 <!-- NODE_ID: name of the animation in the 3D model -->
+                 <node_id>frame</node_id>
+              </behaviour>
+           </behaviours>
+           <resources>
+              <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
+           </resources>
+           <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
+           <icon>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</icon>
+           <homepage>http://www.metaio.com/</homepage>         
+          </poi>
+
             
             
             

@@ -20,37 +20,20 @@
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
 <results>
    <poi id=\"1\" interactionfeedback=\"none\">
-    <name><![CDATA[Hello Image POI]]></name>
-    
-    <description><![CDATA[[This is my first POI.]]></description>  
+    <name><![CDATA[The Erotics Of Everyday Life]]></name>
 
-    <l>37.813463,-122.268412,0</l>
-    <o>0,0,0</o>
-    
-    <mime-type>image/png</mime-type>
+     <description><![CDATA[Mama Buzz]]></description>  
 
-    <mainresource>http://ardevcamp.junaio.com/Tutorial/html/resources/fullscreen.jpg</mainresource>
 
-    <thumbnail>http://ardevcamp.junaio.com/Tutorial/html/resources/logo.jpg</thumbnail>
-    <icon>http://ardevcamp.junaio.com/Tutorial/html/resources/icon.jpg</icon> 
+     <l>37.868146,-122.264678,0</l>
+     <o>0,0,0</o>
 
-    </poi>
- <poi id=\"2\" interactionfeedback=\"none\">
-    <name><![CDATA[Hello Image POI]]></name>
+   <minaccuracy/>
+          <maxdistance/>
+          <mime-type>image/png</mime-type>
+          <mainresource>http://hyperlocative.appspot.com/static/jasper_200.png</mainresource>
 
-    <description><![CDATA[[This is my first POI.]]></description>
-
-    <l>37.806156,-122.29708,0
-</l>
-    <o>0,0,0</o>
-
-    <mime-type>image/png</mime-type>
-
-    <mainresource>http://ardevcamp.junaio.com/Tutorial/html/resources/fullscreen.jpg</mainresource>
-
-    <thumbnail>http://ardevcamp.junaio.com/Tutorial/html/resources/logo.jpg</thumbnail>
-    <icon>http://ardevcamp.junaio.com/Tutorial/html/resources/icon.jpg</icon>
-
-    </poi>
+     <thumbnail>http://hyperlocative.appspot.com/static/jasper_100.png</thumbnail>
+     <icon>http://hyperlocative.appspot.com/static/jasper_100.png</icon>
 </results>";
 ?>
