@@ -22,7 +22,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
        <name><![CDATA[metaio Man]]></name>
           <author><![CDATA[metaio]]></author>
           <translation>0.0,0.0,0.0</translation>
-          <o>0.0,0.0,0.0</o>
+          <o>0, 1.57, 1.57</o>
           <mime-type>model/md2</mime-type>
           <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
           <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
@@ -31,10 +31,20 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
           <force3d>true</force3d>
           <s>1</s>
           <behaviours>
-             <behaviour type=\"click\"><length>6</length><node_id>close_up</node_id></behaviour>
-             <behaviour type=\"idle\"><length>0</length><node_id>idle</node_id></behaviour>
+             <behaviour type=\"click\"><length>6</length>
+                <node_id>close_up</node_id></behaviour>
+             <behaviour type=\"idle\"><length>0</length>
+                  <node_id>idle</node_id></behaviour>
           </behaviours>
-          <customizations/>
+          <customizations>
+                <customization>
+                   <name>Name</name>
+                   <type>sound</type>
+                
+                   <node_id>IDLE</node_id>
+                   <value><![CDATA[http://posterous.com/getfile/files.posterous.com/jaspergregory/dYYL1e0uXkj4guzff8sRwz8Hl8G6hNe8NFWhoBusxOUBrPKq9FwYvihzfeyP/parallelsf-1.mp3]]></value>
+                </customization>
+             </customizations>
           <resources><resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource></resources>         
        </poi>
               <poi id=\"2\" cosid=\"2\" interactionfeedback=\"none\">

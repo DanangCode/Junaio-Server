@@ -20,10 +20,9 @@
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
     <results trackingurl=\"http://oaktopia.hyperlocative.com/resources/tracking.xml_enc\">
        <poi id=\"1\" cosid=\"1\" interactionfeedback=\"none\">
-       <name><![CDATA[metaio Man]]></name>
           <author><![CDATA[metaio]]></author>
           <translation>0.0,0.0,0.0</translation>
-          <o>0.0,0.0,0.0</o>
+          <o>0, 1.57, 1.57</o>
           <mime-type>model/md2</mime-type>
           <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
           <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
