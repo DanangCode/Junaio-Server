@@ -24,7 +24,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
      <description><![CDATA[731 Henry]]></description>
 
 
-     <l>37.806173,-122.296007,0</l>
+     <l>37.867129,-122.263541,0</l>
      <o>0,0,0</o>
 
      <minaccuracy/>
@@ -58,7 +58,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
     <description><![CDATA[Mama Buzz]]></description>  
 
 
-    <l>37.805715,-122.297595,0</l>
+    <l>37.868146,-122.264678,0</l>
     <o>0,0,0</o>
     
   <minaccuracy/>
@@ -76,7 +76,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
     <description><![CDATA[Weed Shop]]></description>
 
 
-    <l>37.840259,-122.249508,0</l>
+    <l>37.867841,-122.265966,0</l>
     <o>0,0,0</o>
   <minaccuracy/>
          <maxdistance/>
