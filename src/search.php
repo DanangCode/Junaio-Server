@@ -16,7 +16,7 @@
  **/
  
  
-echo " <?xml version=\"1.0\" encoding=\"UTF-8\"?>
+echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
     <results trackingurl=\"http://oaktopia.hyperlocative.com/resources/tracking.xml_enc\">
        <poi id=\"1\" cosid=\"1\" interactionfeedback=\"none\">
        <name><![CDATA[metaio Man]]></name>
