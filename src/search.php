@@ -7,13 +7,12 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
          <description><![CDATA[This is my first 3D POI.]]></description>
          <author>YOU</author>
          <date/>
-         <l>37.804054,-122.273498,0</l>
+         <l>37.8048,-122.295427,0</l>
          <o>0,0,0</o>
          <minaccuracy/>
          <maxdistance/>
          <mime-type>model/md2</mime-type>
          <mainresource>http://oaktopia.hyperlocative.com/resources/cyper.md2</mainresource>
-         <!-- force3d determines whether the 3D model will be rendered right away, or a default poi with a \"load 3D Model\" in the description shall be shown -->
          <force3d>true</force3d>
          <s>1</s>
          <behaviours>
