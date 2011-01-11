@@ -18,39 +18,35 @@
  * 
  */
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
-    <results trackingurl=\"http://oaktopia.hyperlocative.com/resources/tracking.xml_enc\">
-       <poi id=\"1\" cosid=\"1\" interactionfeedback=\"none\">
-          <author><![CDATA[metaio]]></author>
-          <translation>0.0,0.0,0.0</translation>
-          <o>0, 1.57, 1.57</o>
-          <mime-type>model/md2</mime-type>
-          <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
-          <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
-          <icon>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</icon>
-          <route>false</route>
-          <force3d>true</force3d>
-          <s>1</s>
-          <behaviours>
-             <behaviour type=\"click\"><length>6</length><node_id>close_up</node_id></behaviour>
-             <behaviour type=\"idle\"><length>0</length><node_id>idle</node_id></behaviour>
-          </behaviours>
-          <customizations/>
-          <resources><resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource></resources>         
-       </poi>
-              <poi id=\"2\" cosid=\"2\" interactionfeedback=\"none\">
-              <name><![CDATA[TimeOut Video]]></name>
-                      <author><![CDATA[metaio]]></author>
-                      <o>0.0,0.0,0.0</o>
-                      <translation>0,0,0.0</translation>
-                      <minaccuracy>2</minaccuracy>
-                      <maxdistance>100000</maxdistance>
-                      <mime-type>model/md2</mime-type>
-                      <mainresource>http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc</mainresource>
-                      <s>.3</s>
-                      <force3d>true</force3d>
-                      <resources>
-                             <resource>http://www.junaio.com/publisherDownload/tutorial/insideAR.3gp</resource> 
-                      </resources>      
-              </poi>
-    </results>";
+   <results>    
+      <poi id=\"poi1\" interactionfeedback=\"none\">
+         <name><![CDATA[Hello 3D World]]></name>
+         <description><![CDATA[This is my first 3D POI.]]></description>
+         <author>YOU</author>
+         <date/>
+         <l>37.8048,-122.295427,0</l>
+         <o>0,0,0</o>
+         <minaccuracy/>
+         <maxdistance/>
+         <mime-type>model/md2</mime-type>
+         <mainresource>http://oaktopia.hyperlocative.com/resources/cyper.md2</mainresource>
+         <force3d>true</force3d>
+         <s>.6</s>
+         <behaviours>
+            <behaviour type=\"idle\">
+               <!-- LENGTH: 0 for looping, amount of frames otherwise -->
+               <length>0</length>
+               <!-- NODE_ID: name of the animation in the 3D model -->
+               <node_id>frame</node_id>
+            </behaviour>
+         </behaviours>
+         <resources>
+            <resource>http://oaktopia.hyperlocative.com/resources/cyber.png</resource>
+         </resources>
+         <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
+         <icon>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</icon>
+         <homepage>http://www.metaio.com/</homepage>         
+        </poi>
+</results>";
+?>
 ?>

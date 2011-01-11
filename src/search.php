@@ -14,7 +14,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
          <mime-type>model/md2</mime-type>
          <mainresource>http://oaktopia.hyperlocative.com/resources/cyper.md2</mainresource>
          <force3d>true</force3d>
-         <s>1</s>
+         <s>.6</s>
          <behaviours>
             <behaviour type=\"idle\">
                <!-- LENGTH: 0 for looping, amount of frames otherwise -->
