@@ -23,7 +23,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
                <name><![CDATA[Ein UFO]]></name>
                <author>metaio GmbH</author>
                <date/>
-               <l>48.161036,11.55107,0</l>
+               <l>37.806156,-122.295814,0</l>
                <o>0,0,0</o>
                <mime-type>model/md2</mime-type>
                <mainresource>http://www.junaio.com/publisherDownload/tutorial/ufo3.md2_enc</mainresource>
