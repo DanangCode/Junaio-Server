@@ -2,9 +2,8 @@
  
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
    <results>    
-      <poi id=\"poi1\" interactionfeedback=\"none\">
+      <poi id=\"poi1\" interactionfeedback=\"click\">
          <name><![CDATA[Hello 3D World]]></name>
-         <description><![CDATA[This is my first 3D POI.]]></description>
          <author>YOU</author>
          <date/>
          <l>37.805037,-122.294655,0</l>
@@ -12,7 +11,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
          <mime-type>model/md2</mime-type>
          <mainresource>http://oaktopia.hyperlocative.com/resources/cyber.md2</mainresource>
          <force3d>true</force3d>
-         <s>2</s>
+         <s>.7</s>
         
          <resources>
             <resource>http://oaktopia.hyperlocative.com/resources/cyber.png</resource>
