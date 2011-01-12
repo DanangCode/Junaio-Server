@@ -30,32 +30,22 @@ else
 	
 $aUrl = explode('/', $path);
 
-// Include xml generation file, depending on the request
-// pois/search -> search.php
-// pois/event -> event.php
-// channels/subscribe -> subscribe.php
+$xmlFilePoisSearchPath = "resources/pois_search.xml";
+$xmlFilePoisEventPath = "resources/pois_event.xml";
 
-if(in_array('pois', $aUrl))
-{
-	if(in_array_substr('event', $aUrl))
-	{
-		include '../src/event.php';
-		exit;
-	}
-	else if(in_array_substr('search', $aUrl))
-	{
-		include '../src/search.php';
-		exit;
-	}
-}
-else if(in_array('channels', $aUrl))
-{
-	if(in_array_substr('subscribe', $aUrl))
-	{
-		include '../src/subscribe.php';
-		exit;
-	}
-}
+  if(in_array('pois', $aUrl))
+  {
+     if(in_array_substr('search', $aUrl))
+     {
+        echo file_get_contents($xmlFilePoisSearchPath);
+        exit;
+     }
+     else if(in_array_substr('event', $aUrl))
+     {
+        echo file_get_contents($xmlFilePoisEventPath);
+        exit;
+     }
+  }
 
 // Wrong url
 header('HTTP/1.0 404 Not found');
