@@ -19,7 +19,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
          <homepage>http://jasperswardrobe.com/</homepage>         
         </poi>
         
-          <poi id=/"poi3/" interactionfeedback=/"click/">
+          <poi id=\"poi3\" interactionfeedback=\"click\">
                <name><![CDATA[Ein UFO]]></name>
                <author>metaio GmbH</author>
                <date/>
@@ -34,11 +34,11 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
                   <resource>http://www.junaio.com/publisherDownload/tutorial/texture_ufo.png</resource> 
                </resources>
                <behaviours>
-                  <behaviour type=/"idle/">
+                  <behaviour type=\"idle\">
                      <length>0</length>
                      <node_id>idle</node_id>
                   </behaviour>
-                  <behaviour type=/"click/">
+                  <behaviour type=\"click\">
                      <length>0</length>
                      <node_id>explosion</node_id>
                   </behaviour>
