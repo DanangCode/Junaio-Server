@@ -6,14 +6,14 @@
           <author>YOU</author>
           <date/>
           <l>37.805037,-122.294655,0</l>
-          <o>0,0,0</o>
-          <mime-type>model/md2</mime-type>           <mainresource>http://www.junaio.com/publisherDownload/tutorial/ufo3.md2_enc</mainresource>
+          <o>0,90,0</o>
+          <mime-type>model/md2</mime-type>           <mainresource>http://oaktopia.hyperlocative.com/resources/model/mymodel.md2_enc</mainresource>
           <force3d>true</force3d>
           <s>50</s>        
           <resources>
-             <resource>http://www.junaio.com/publisherDownload/tutorial/texture_ufo.png</resource>
+             <resource>http://oaktopia.hyperlocative.com/resources/model/mymodelstexture.png</resource>
           </resources>
-          <thumbnail>http://oaktopia.hyperlocative.com/resources/jasper_100.png</thumbnail>
+          <thumbnail>http://oaktopia.hyperlocative.com/resources/model/mymodelsthumb.png</thumbnail>
           <icon>http://oaktopia.hyperlocative.com/resources/jasper_100.png</icon>    
             <behaviours>
                 <behaviour type="idle">
@@ -22,7 +22,7 @@
                 </behaviour>
                 <behaviour type="click">
                    <length>0</length>
-                   <node_id>explosion</node_id>
+                   <node_id>idle</node_id>
                 </behaviour>
              </behaviours>
          </poi>  
