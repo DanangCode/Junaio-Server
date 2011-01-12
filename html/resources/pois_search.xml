@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <results>  
    
-       <poi id="1" interactionfeedback="click">
+       <poi id="1" interactionfeedback="none">
           <name><![CDATA[3D World]]></name>
           <author>YOU</author>
           <date/>
           <l>37.805037,-122.294655,0</l>
           <o>0,0,0</o>
-          <mime-type>model/md2</mime-type>           <mainresource>http://oaktopia.hyperlocative.com/resources/cyber.md2</mainresource>
-          <force3d>true</force3d>
+          <mime-type>model/md2</mime-type>           <mainresource>http://www.junaio.com/publisherDownload/tutorial/ufo3.md2_enc</mainresource>
+          <force3d>false</force3d>
           <s>50</s>        
           <resources>
-             <resource>http://oaktopia.hyperlocative.com/resources/cyber.png</resource>
+             <resource>http://www.junaio.com/publisherDownload/tutorial/texture_ufo.png</resource>
           </resources>
           <thumbnail>http://oaktopia.hyperlocative.com/resources/jasper_100.png</thumbnail>
           <icon>http://oaktopia.hyperlocative.com/resources/jasper_100.png</icon>    
