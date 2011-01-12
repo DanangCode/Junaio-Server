@@ -11,7 +11,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
          <o>0,0,0</o>
          <mime-type>model/md2</mime-type>
          <mainresource>http://oaktopia.hyperlocative.com/resources/cyber.md2</mainresource>
-         <force3d>false</force3d>
+         <force3d>true</force3d>
          <s>2</s>
         
          <resources>
