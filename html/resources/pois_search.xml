@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <results>    
-    <poi id=\"1\" interactionfeedback=\"click\">
-       <name><![CDATA[3D World]]></name>
-       <author>YOU</author>
-       <date/>
-       <l>37.805037,-122.294655,0</l>
-       <o>0,0,0</o>
-       <mime-type>model/md2</mime-type>           <mainresource>http://oaktopia.hyperlocative.com/resources/cyber.md2</mainresource>
-       <force3d>true</force3d>
-       <s>10</s>        
-       <resources>
-          <resource>http://oaktopia.hyperlocative.com/resources/cyber.png</resource>
-       </resources>
-       <thumbnail>http://oaktopia.hyperlocative.com/resources/jasper_100.png</thumbnail>
-       <icon>http://oaktopia.hyperlocative.com/resources/jasper_100.png</icon>    
-         <behaviours>
-             <behaviour type=\"idle\">
-                <length>0</length>
-                <node_id>idle</node_id>
-             </behaviour>
-             <behaviour type=\"click\">
-                <length>0</length>
-                <node_id>explosion</node_id>
-             </behaviour>
-          </behaviours>
-      </poi>
       
-        <poi id=\"poi3\" interactionfeedback=\"click\">
+        <poi id="poi3" interactionfeedback="click">
              <name><![CDATA[Ein UFO]]></name>
              <author>metaio GmbH</author>
              <date/>
@@ -41,11 +16,11 @@
                 <resource>http://www.junaio.com/publisherDownload/tutorial/texture_ufo.png</resource> 
              </resources>
              <behaviours>
-                <behaviour type=\"idle\">
+                <behaviour type="idle">
                    <length>0</length>
                    <node_id>idle</node_id>
                 </behaviour>
-                <behaviour type=\"click\">
+                <behaviour type="click">
                    <length>0</length>
                    <node_id>explosion</node_id>
                 </behaviour>
