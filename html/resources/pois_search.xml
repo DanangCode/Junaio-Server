@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <results>  
    
-       <poi id="1" interactionfeedback="none">
+       <poi id="1" interactionfeedback="click">
           <name><![CDATA[3D World]]></name>
           <author>YOU</author>
           <date/>
           <l>37.805037,-122.294655,0</l>
           <o>0,0,0</o>
           <mime-type>model/md2</mime-type>           <mainresource>http://www.junaio.com/publisherDownload/tutorial/ufo3.md2_enc</mainresource>
-          <force3d>false</force3d>
+          <force3d>true</force3d>
           <s>50</s>        
           <resources>
              <resource>http://www.junaio.com/publisherDownload/tutorial/texture_ufo.png</resource>
