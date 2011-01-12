@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <results>  
-   
        <poi id="1" interactionfeedback="click">
           <name><![CDATA[3D World]]></name>
           <author>YOU</author>
@@ -51,6 +50,5 @@
                    <node_id>explosion</node_id>
                 </behaviour>
              </behaviours>
-          </poi>
-      
-</results>";
+          </poi>   
+</results>
