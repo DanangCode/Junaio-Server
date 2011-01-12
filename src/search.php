@@ -7,10 +7,10 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
          <description><![CDATA[This is my first 3D POI.]]></description>
          <author>YOU</author>
          <date/>
-         <l>37.8048,-122.295427,0</l>
+         <l>37.805037,-122.294655,0</l>
          <o>0,0,0</o>
          <mime-type>model/md2</mime-type>
-         <mainresource>http://oaktopia.hyperlocative.com/resources/cyper.md2</mainresource>
+         <mainresource>http://oaktopia.hyperlocative.com/resources/cyer.md2</mainresource>
          <force3d>false</force3d>
          <s>2</s>
         
@@ -21,5 +21,6 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
          <icon>http://oaktopia.hyperlocative.com/resources/jasper_100.png</icon>
          <homepage>http://www.metaio.com/</homepage>         
         </poi>
+        
 </results>";
 ?>
