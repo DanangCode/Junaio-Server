@@ -31,7 +31,7 @@ else
 $aUrl = explode('/', $path);
 
 $xmlFilePoisSearchPath = "resources/pois_search.xml";
-$xmlFilePoisEventPath = "resources/pois_event.xml";
+$xmlFilePoisEventPath = "resources/pois_search.xml";
 
   if(in_array('pois', $aUrl))
   {
