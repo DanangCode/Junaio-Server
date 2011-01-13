@@ -13,11 +13,17 @@
         <force3d>true</force3d>
         <s>.6</s>
         <behaviours>
-           <behaviour type="click"><length>6</length>
-              <node_id>close_up</node_id></behaviour>
            <behaviour type="idle"><length>0</length>
                 <node_id>idle</node_id></behaviour>
         </behaviours>
+        <customizations>
+                <customization>
+                   <name>interview</name>
+                   <type>sound</type>
+                   <!--"click" will start the sound on user interaction; "idle", once the model is loaded -->
+                   <node_id>click</node_id>     <value><![CDATA[http://posterous.com/getfile/files.posterous.com/jaspergregory/dYYL1e0uXkj4guzff8sRwz8Hl8G6hNe8NFWhoBusxOUBrPKq9FwYvihzfeyP/parallelsf-1.mp3]]></value>
+                </customization>
+             </customizations>
         <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>        
      </poi>
      <poi id="2" cosid="2" interactionfeedback="click">
@@ -27,7 +33,7 @@
          <o>90,180,45</o>
          <mime-type>model/md2</mime-type>           <mainresource>http://oaktopia.hyperlocative.com/resources/model/mymodel.md2_enc</mainresource>
          <force3d>true</force3d>
-         <s>1000</s>        
+         <s>1</s>        
          <resources>
             <resource>http://oaktopia.hyperlocative.com/resources/model/mymodelstexture.png</resource>
          </resources>
