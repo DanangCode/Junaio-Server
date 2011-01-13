@@ -4,14 +4,14 @@
      <name><![CDATA[metaio Man]]></name>
         <author><![CDATA[metaio]]></author>
         <translation>0.0,0.0,0.0</translation>
-        <o>0, 1.57, 1.57</o>
+        <o>90,180,0</o>
         <mime-type>model/md2</mime-type>
         <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
         <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
         <icon>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</icon>
         <route>false</route>
         <force3d>true</force3d>
-        <s>1</s>
+        <s>.6</s>
         <behaviours>
            <behaviour type="click"><length>6</length>
               <node_id>close_up</node_id></behaviour>
@@ -38,7 +38,7 @@
                     <maxdistance>100000</maxdistance>
                     <mime-type>model/md2</mime-type>
                     <mainresource>http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc</mainresource>
-                    <s>.3</s>
+                    <s>.05</s>
                     <force3d>true</force3d>
                     <resources>
                            <resource>http://www.junaio.com/publisherDownload/tutorial/insideAR.3gp</resource> 
