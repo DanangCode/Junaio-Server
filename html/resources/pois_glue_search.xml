@@ -29,7 +29,7 @@
            </customizations>
         <resources><resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource></resources>         
      </poi>
-            <poi id="2photo" cosid="2" interactionfeedback="none">
+            <poi id="2" cosid="2" interactionfeedback="none">
             <name><![CDATA[TimeOut Video]]></name>
                     <author><![CDATA[metaio]]></author>
                     <o>0.0,0.0,0.0</o>

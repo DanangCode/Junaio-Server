@@ -33,19 +33,14 @@ $aUrl = explode('/', $path);
 $xmlFilePoisSearchPath = "resources/pois_glue_search.xml";
 $xmlFilePoisEventPath = "resources/pois_glue_search.xml";
 
-  if(in_array('pois', $aUrl))
-  {
-     if(in_array_substr('search', $aUrl))
-     {
-        echo file_get_contents($xmlFilePoisSearchPath);
-        exit;
-     }
-     else if(in_array_substr('event', $aUrl))
-     {
-        echo file_get_contents($xmlFilePoisEventPath);
-        exit;
-     }
-  }
+ if(in_array('pois', $aUrl))
+ {
+ 	if(in_array_substr('search', $aUrl))
+ 	{
+ 		include '../src/search_glue.php';
+ 		exit;
+ 	}	
+ }
 
 // Wrong url
 header('HTTP/1.0 404 Not found');
