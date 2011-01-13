@@ -4,7 +4,7 @@
      <name><![CDATA[metaio Man]]></name>
         <author><![CDATA[metaio]]></author>
         <translation>0.0,0.0,0.0</translation>
-        <o>0,180,90</o>
+        <o>90,180,45</o>
         <mime-type>model/md2</mime-type>
         <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
         <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
@@ -20,8 +20,32 @@
         </behaviours>
         <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>        
      </poi>
+     <poi id="2" cosid="2" interactionfeedback="click">
+         <name><![CDATA[3D World]]></name>
+         <author>YOU</author>
+         <translation>0.0,0.0,0.0</translation>
+         <o>90,180,45</o>
+         <mime-type>model/md2</mime-type>           <mainresource>http://oaktopia.hyperlocative.com/resources/model/mymodel.md2_enc</mainresource>
+         <force3d>true</force3d>
+         <s>1000</s>        
+         <resources>
+            <resource>http://oaktopia.hyperlocative.com/resources/model/mymodelstexture.png</resource>
+         </resources>
+         <thumbnail>http://oaktopia.hyperlocative.com/resources/model/mymodelsthumb.png</thumbnail>
+         <icon>http://oaktopia.hyperlocative.com/resources/jasper_100.png</icon>    
+           <behaviours>
+               <behaviour type="idle">
+                  <length>0</length>
+                  <node_id>idle</node_id>
+               </behaviour>
+               <behaviour type="click">
+                  <length>0</length>
+                  <node_id>idle</node_id>
+               </behaviour>
+            </behaviours>
+        </poi>
    
-     <poi id="2" cosid="4" interactionfeedback="none">
+     <poi id="4" cosid="4" interactionfeedback="none">
             <name><![CDATA[TimeOut Video]]></name>
                     <author><![CDATA[metaio]]></author>
                     <o>0.0,0.0,0.0</o>
@@ -36,27 +60,18 @@
                            <resource>http://www.junaio.com/publisherDownload/tutorial/insideAR.3gp</resource> 
                     </resources>      
       </poi>
-        <poi id="3" cosid="2" interactionfeedback="click">
+        <poi id="3" cosid="3" interactionfeedback="click">
               <name><![CDATA[Ein UFO]]></name>
               <author>metaio GmbH</author>
                <translation>0.0,0.0,0.0</translation>
-                <o>0,0,0</o>
+              <o>0,0,0</o>
               <mime-type>model/md2</mime-type>
-              <mainresource>http://www.junaio.com/publisherDownload/tutorial/ufo3.md2_enc</mainresource>
-              <s>35</s>
+              <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
+              <s>.6</s>
               <force3d>true</force3d>
               <resources>
-                 <resource>http://www.junaio.com/publisherDownload/tutorial/texture_ufo.png</resource> 
+                 <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
               </resources>
-              <behaviours>
-                 <behaviour type="idle">
-                    <length>0</length>
-                    <node_id>idle</node_id>
-                 </behaviour>
-                 <behaviour type="click">
-                    <length>0</length>
-                    <node_id>explosion</node_id>
-                 </behaviour>
-              </behaviours>
+             
            </poi>
   </results>
