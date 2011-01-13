@@ -18,13 +18,13 @@
  
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
     <results trackingurl=\"http://oaktopia.hyperlocative.com/resources/tracking.xml_enc\">
-       <poi id=\"poi1\" cosid=\"1\" interactionfeedback=\"click\">
+       <poi id=\"poi1\" cosid=\"3\" interactionfeedback=\"click\">
            
                   <name><![CDATA[Ein UFO]]></name>
                   <author>metaio GmbH</author>
                   <date/>
-                  <l>37.806156,-122.295814,0</l>
                   <o>0,0,0</o>
+                  <translation>0,0,0.0</translation>
                   <mime-type>model/md2</mime-type>
                   <mainresource>http://www.junaio.com/publisherDownload/tutorial/ufo3.md2_enc</mainresource>
                   <route>false</route>
@@ -44,6 +44,21 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
                      </behaviour>
                   </behaviours>
                </poi>
+               <poi id=\"poi2\" cosid=\"2\" interactionfeedback=\"click\">
+                      <name><![CDATA[TimeOut Video]]></name>
+                      <author><![CDATA[metaio]]></author>
+                      <o>0.0,0.0,0.0</o>
+                      <translation>0,0,0.0</translation>
+                      <minaccuracy>2</minaccuracy>
+                      <maxdistance>100000</maxdistance>
+                      <mime-type>model/md2</mime-type>
+                      <mainresource>http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc</mainresource>
+                      <s>.3</s>
+                      <force3d>true</force3d>
+                      <resources>
+                             <resource>http://www.junaio.com/publisherDownload/tutorial/insideAR.3gp</resource> 
+                      </resources>           
+                </poi>
            
     </results>";
 ?>
