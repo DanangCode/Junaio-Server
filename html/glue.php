@@ -35,11 +35,10 @@ $xmlFilePoisEventPath = "resources/pois_glue_search.xml";
 
  if(in_array('pois', $aUrl))
  {
- 	if(in_array_substr('search', $aUrl))
- 	{
+ 
  		include '../src/search_glue.php';
  		exit;
- 	}	
+ 		
  }
 
 // Wrong url
