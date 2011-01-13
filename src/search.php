@@ -8,7 +8,8 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
          <date/>
          <l>37.805037,-122.294655,0</l>
          <o>0,0,0</o>
-         <mime-type>model/md2</mime-type>           <mainresource>http://oaktopia.hyperlocative.com/resources/cyber.md2</mainresource>
+         <mime-type>model/md2</mime-type>           
+         <mainresource>http://oaktopia.hyperlocative.com/resources/cyber.md2</mainresource>
          <force3d>true</force3d>
          <s>10</s>        
          <resources>
