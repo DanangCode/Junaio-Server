@@ -3,7 +3,7 @@
      <poi id="1" cosid="1" interactionfeedback="click">
      <name><![CDATA[object]]></name>
         <author><![CDATA[metaio]]></author>
-        <translation>0.0,0.0,0.0</translation>
+        <relativetoscreen>1,1</relativetoscreen>
         <o>0,0,0</o>
         <mime-type>model/obj</mime-type>
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/junaio_model_obj.zip]]></mainresource>
