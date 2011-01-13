@@ -19,16 +19,16 @@
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
     <results trackingurl=\"http://oaktopia.hyperlocative.com/resources/tracking.xml_enc\">
        <poi id=\"poi1\" cosid=\"3\" interactionfeedback=\"click\">
-           
                   <name><![CDATA[Ein UFO]]></name>
                   <author>metaio GmbH</author>
-                  <date/>
-                  <o>0,0,0</o>
+                  <o>0.0,0.0,0.0</o>
                   <translation>0,0,0.0</translation>
+                  <minaccuracy>2</minaccuracy>
+                  <maxdistance>100000</maxdistance>
                   <mime-type>model/md2</mime-type>
                   <mainresource>http://www.junaio.com/publisherDownload/tutorial/ufo3.md2_enc</mainresource>
                   <route>false</route>
-                  <s>15</s>
+                  <s>35</s>
                   <force3d>true</force3d>
                   <resources>
                      <resource>http://www.junaio.com/publisherDownload/tutorial/texture_ufo.png</resource> 
@@ -44,7 +44,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
                      </behaviour>
                   </behaviours>
                </poi>
-               <poi id=\"poi2\" cosid=\"2\" interactionfeedback=\"click\">
+               <poi id=\"poi2\" cosid=\"1\" interactionfeedback=\"click\">
                       <name><![CDATA[TimeOut Video]]></name>
                       <author><![CDATA[metaio]]></author>
                       <o>0.0,0.0,0.0</o>
@@ -53,7 +53,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
                       <maxdistance>100000</maxdistance>
                       <mime-type>model/md2</mime-type>
                       <mainresource>http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc</mainresource>
-                      <s>.3</s>
+                      <s>.1</s>
                       <force3d>true</force3d>
                       <resources>
                              <resource>http://www.junaio.com/publisherDownload/tutorial/insideAR.3gp</resource> 
