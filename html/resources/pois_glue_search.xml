@@ -3,8 +3,8 @@
      <poi id="1" cosid="1" interactionfeedback="click">
      <name><![CDATA[object]]></name>
         <author><![CDATA[metaio]]></author>
-        <relativetoscreen>.25,.25</relativetoscreen>
-        <o>90,90,0</o>
+        <relativetoscreen>.75,.25</relativetoscreen>
+        <o>90,0,0</o>
         <mime-type>model/obj</mime-type>
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/junaio_model_obj.zip]]></mainresource>
         <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
