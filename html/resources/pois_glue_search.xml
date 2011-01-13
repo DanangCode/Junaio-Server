@@ -11,7 +11,7 @@
         <icon>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</icon>
         <route>false</route>
         <force3d>true</force3d>
-        <s>.2</s>
+        <s>.1</s>
         <customizations>
                 <customization>
                    <name>interview</name>
