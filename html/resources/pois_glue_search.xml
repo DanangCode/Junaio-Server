@@ -21,31 +21,32 @@
 
         <resources><resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource></resources>         
      </poi>
-     <poi id="3" cosid="3" interactionfeedback="none">
-      <name><![CDATA[obj]]></name>
-         <translation>0.0,0.0,0.0</translation>
-         <o>0,0,0</o>
-         <mime-type>model/obj</mime-type>
-         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/model.zip]]></mainresource>
-         <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
-         <icon>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</icon>
-         <route>false</route>
-         <force3d>true</force3d>
-         <s>1</s>
-      </poi>     
-       <poi id="2" cosid="2" interactionfeedback="none">
+   
+     <poi id="2" cosid="2" interactionfeedback="none">
             <name><![CDATA[TimeOut Video]]></name>
                     <author><![CDATA[metaio]]></author>
                     <o>0.0,0.0,0.0</o>
                     <translation>0, 1.57, 1.57</translation>
-                    <minaccuracy>1</minaccuracy>
+                    <minaccuracy>2</minaccuracy>
                     <maxdistance>100000</maxdistance>
                     <mime-type>model/md2</mime-type>
                     <mainresource>http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc</mainresource>
-                    <s>.1</s>
+                    <s>.2</s>
                     <force3d>true</force3d>
                     <resources>
                            <resource>http://www.junaio.com/publisherDownload/tutorial/insideAR.3gp</resource> 
                     </resources>      
-            </poi>     
+      </poi>
+      <poi id="3" cosid="3" interactionfeedback="none">
+       <name><![CDATA[obj]]></name>
+          <translation>0.0,0.0,0.0</translation>
+          <o>0,0,0</o>
+          <mime-type>model/obj</mime-type>
+          <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/model.zip]]></mainresource>
+          <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
+          <icon>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</icon>
+          <route>false</route>
+          <force3d>true</force3d>
+          <s>1</s>
+       </poi>     
   </results>
