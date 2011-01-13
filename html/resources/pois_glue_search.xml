@@ -4,7 +4,7 @@
      <name><![CDATA[metaio Man]]></name>
         <author><![CDATA[metaio]]></author>
         <translation>0.0,0.0,0.0</translation>
-        <o>0,180,0</o>
+        <o>0,180,90</o>
         <mime-type>model/md2</mime-type>
         <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
         <thumbnail>http://www.junaio.com/publisherDownload/tutorial/icon.jpg</thumbnail>
@@ -21,7 +21,7 @@
         <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>        
      </poi>
    
-     <poi id="2" cosid="2" interactionfeedback="none">
+     <poi id="2" cosid="4" interactionfeedback="none">
             <name><![CDATA[TimeOut Video]]></name>
                     <author><![CDATA[metaio]]></author>
                     <o>0.0,0.0,0.0</o>
@@ -36,14 +36,14 @@
                            <resource>http://www.junaio.com/publisherDownload/tutorial/insideAR.3gp</resource> 
                     </resources>      
       </poi>
-        <poi id="3" cosid="3" interactionfeedback="click">
+        <poi id="3" cosid="2" interactionfeedback="click">
               <name><![CDATA[Ein UFO]]></name>
               <author>metaio GmbH</author>
                <translation>0.0,0.0,0.0</translation>
                 <o>0,0,0</o>
               <mime-type>model/md2</mime-type>
               <mainresource>http://www.junaio.com/publisherDownload/tutorial/ufo3.md2_enc</mainresource>
-              <s>15</s>
+              <s>35</s>
               <force3d>true</force3d>
               <resources>
                  <resource>http://www.junaio.com/publisherDownload/tutorial/texture_ufo.png</resource> 
