@@ -71,7 +71,7 @@
                </poi>
                
                
-               <poi id="1" cosid="" interactionfeedback="click">
+               <poi id="5" cosid="5" interactionfeedback="click">
                <name><![CDATA[object]]></name>
                   <author><![CDATA[metaio]]></author>
                   <relativetoscreen>.75,.25</relativetoscreen>
