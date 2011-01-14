@@ -1,22 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><results>
-<poi id="poi3" interactionfeedback="click">
-<name><![CDATA[Ein Ballon]]></name>
-<author>metaio GmbH</author>
-<l>37.806156,-122.295814,0</l>
-<o>0,0,0</o>
-<mime-type>model/md2</mime-type>
-<mainresource>http://www.junaio.com/publisherDownload/tutorial/balloon.md2_enc</mainresource>
-<route>false</route>
-<s>50</s>
-<force3d>true</force3d>
-<resources>
-	<resource>http://www.junaio.com/publisherDownload/tutorial/balloon.png</resource> 
-</resources>
-<behaviours>
-	<behaviour type="idle">
-		<length>0</length>
-		<node_id>action</node_id>
-	</behaviour> 
-</behaviours>
-</poi>
+<?xml version="1.0" encoding="UTF-8"?>
+<results trackingurl="http://oaktopia.hyperlocative.com/resources/tracking.xml_enc">
+  <poi id="1" removed="true"/>
+  <poi id="2" removed="true"/>
+  <poi id="3" removed="true"/>
+  <poi id="4" removed="true"/>
+  <poi id="5" removed="true"/>
+  <poi id="6" removed="true"/>
+  <poi id="7" removed="true"/>
 </results>
