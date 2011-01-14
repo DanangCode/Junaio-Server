@@ -13,32 +13,32 @@
            <resources>
               <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
            </resources>
+           
+             <customizations>
+                     <customization>
+                        <name>interview</name>
+                        <type>sound</type>
+                        <!--"click" will start the sound on user interaction; "idle", once the model is loaded -->
+                        <node_id>click</node_id>
+                        
+                     </customization>
+              </customizations>
     </poi>
      
     <poi id="2" cosid="2" interactionfeedback="click">
-         <name><![CDATA[3D World]]></name>
-         <author>YOU</author>
-         <translation>0.0,0.0,0.0</translation>
-         <o>90,180,45</o>
-         <mime-type>model/md2</mime-type>
-         <mainresource>http://oaktopia.hyperlocative.com/resources/model/mymodel.md2_enc</mainresource>
-         <force3d>true</force3d>
-         <s>1</s>        
-         <resources>
-            <resource>http://oaktopia.hyperlocative.com/resources/model/mymodelstexture.png</resource>
-         </resources>
-         <thumbnail>http://oaktopia.hyperlocative.com/resources/model/mymodelsthumb.png</thumbnail>
-         <icon>http://oaktopia.hyperlocative.com/resources/jasper_100.png</icon>    
-           <behaviours>
-               <behaviour type="idle">
-                  <length>0</length>
-                  <node_id>idle</node_id>
-               </behaviour>
-               <behaviour type="click">
-                  <length>0</length>
-                  <node_id>idle</node_id>
-               </behaviour>
-            </behaviours>
+          <name><![CDATA[TimeOut Video]]></name>
+              <author><![CDATA[metaio]]></author>
+              <o>0.0,0.0,0.0</o>
+              <translation>0, 1.57, 1.57</translation>
+              <minaccuracy>2</minaccuracy>
+              <maxdistance>100000</maxdistance>
+              <mime-type>model/md2</mime-type>
+              <mainresource>http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc</mainresource>
+              <s>.2</s>
+              <force3d>true</force3d>
+              <resources>
+                     <resource>http://oaktopia.hyperlocative.com/resources/bird_final.png</resource> 
+              </resources>
     </poi>
          
     <poi id="3" cosid="3" interactionfeedback="none">
@@ -90,7 +90,7 @@
                              <type>sound</type>
                              <!--"click" will start the sound on user interaction; "idle", once the model is loaded -->
                              <node_id>click</node_id>
-                          <value><![CDATA[http://posterous.com/getfile/files.posterous.com/jaspergregory/dYYL1e0uXkj4guzff8sRwz8Hl8G6hNe8NFWhoBusxOUBrPKq9FwYvihzfeyP/parallelsf-1.mp3]]></value>
+                             <value><![CDATA[http://posterous.com/getfile/files.posterous.com/jaspergregory/dYYL1e0uXkj4guzff8sRwz8Hl8G6hNe8NFWhoBusxOUBrPKq9FwYvihzfeyP/parallelsf-1.mp3]]></value>
                           </customization>
                        </customizations>     
     </poi>
