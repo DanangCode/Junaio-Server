@@ -16,16 +16,16 @@
            
              <customizations>
                      <customization>
-                        <name>interview</name>
-                        <type>sound</type>
+                        <name>podcast</name>
+                        <type>url</type>
                         <!--"click" will start the sound on user interaction; "idle", once the model is loaded -->
                         <node_id>click</node_id>
-                        
+                        <value><![CDATA[http://jasperswardrobe.com/julian-assange-is-a-master-situationist-like]]></value>                     
                      </customization>
               </customizations>
     </poi>
      
-    <poi id="2" cosid="2" interactionfeedback="click">
+    <poi id="3" cosid="3" interactionfeedback="click">
           <name><![CDATA[TimeOut Video]]></name>
               <author><![CDATA[metaio]]></author>
               <o>0.0,0.0,0.0</o>
@@ -41,7 +41,7 @@
               </resources>
     </poi>
          
-    <poi id="3" cosid="3" interactionfeedback="none">
+    <poi id="" cosid="" interactionfeedback="none">
                   <name><![CDATA[TimeOut Video]]></name>
                           <author><![CDATA[metaio]]></author>
                           <o>0.0,0.0,0.0</o>
@@ -57,7 +57,7 @@
                           </resources>      
     </poi>
             
-    <poi id="4" cosid="4" interactionfeedback="click">
+    <poi id="" cosid="" interactionfeedback="click">
                   <name><![CDATA[Ein UFO]]></name>
                   <author>metaio GmbH</author>
                    <translation>0.0,0.0,0.0</translation>
@@ -72,7 +72,7 @@
     </poi>
                
                
-    <poi id="5" cosid="5" interactionfeedback="click">
+    <poi id="4" cosid="4" interactionfeedback="click">
                <name><![CDATA[object]]></name>
                   <author><![CDATA[metaio]]></author>
                   <relativetoscreen>.75,.25</relativetoscreen>
@@ -87,7 +87,7 @@
                   <customizations>
                           <customization>
                              <name>interview</name>
-                             <type>sound</type>
+                             <type>url</type>
                              <!--"click" will start the sound on user interaction; "idle", once the model is loaded -->
                              <node_id>click</node_id>
                              <value><![CDATA[http://posterous.com/getfile/files.posterous.com/jaspergregory/dYYL1e0uXkj4guzff8sRwz8Hl8G6hNe8NFWhoBusxOUBrPKq9FwYvihzfeyP/parallelsf-1.mp3]]></value>
