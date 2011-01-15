@@ -4,11 +4,11 @@
     <poi id="1" cosid="1" interactionfeedback="click">
              <name><![CDATA[TimeOut Video]]></name>
                   <author><![CDATA[metaio]]></author>
-                  <o>0.0,0.0,0.0</o>
+                  <o>90,0,90</o>
                   <translation>0, 1.57, 1.57</translation>
                   <mime-type>model/md2</mime-type>
-                  <mainresource><![CDATA[]]></mainresource>
-                  <s>.2</s>
+                  <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
+                  <s>.5</s>
                   <force3d>true</force3d>
                   <resources>
                      <resource></resource>
@@ -22,8 +22,8 @@
                            </customization>
                     </customizations>      
     </poi>
-    
-    <poi id="2" cosid="2" interactionfeedback="none">
+  
+    <poi id="2" cosid="3" interactionfeedback="none">
 
                  <name><![CDATA[Ein UFO]]></name>
                  <author>metaio GmbH</author>
@@ -42,7 +42,7 @@
                               <name>podcast</name>
                               <type>url</type>
                               <node_id>click</node_id>
-                              <value><![CDATA[playajoy.org]]></value>                     
+                              <value><![CDATA[http://playajoy.org]]></value>                     
                            </customization>
                     </customizations>
       </poi> 
@@ -125,8 +125,8 @@
      <poi id="6" cosid="4" interactionfeedback="click">
                     <name><![CDATA[Ein UFO]]></name>
                     <author>metaio GmbH</author>
-                     <translation>90,0.0,0.0</translation>
-                    <o>0,0,0</o>
+                     <translation>0,0.0,0.0</translation>
+                    <o>90,0,0</o>
                     <mime-type>model/md2</mime-type>
                     <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
                     <s>.6</s>
