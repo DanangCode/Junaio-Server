@@ -67,7 +67,7 @@
     <poi id="4" cosid="3" interactionfeedback="none">
                   <name><![CDATA[Ein UFO]]></name>
                   <author>metaio GmbH</author>
-                  <translation>-60,60,60</translation>
+                  <translation>-30,30,60</translation>
                   <o>0,0,90</o>
                   <mime-type>model/md2</mime-type>
                   <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
@@ -90,27 +90,31 @@
                
                
     <poi id="5" cosid="3" interactionfeedback="click">
-               <name><![CDATA[object]]></name>
-                  <author><![CDATA[metaio]]></author>
-                 <translation>-30,-30,0</translation>
-                  <o>0,0,0</o>
-                  <mime-type>model/md2</mime-type>
-                  <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
-                  <route>false</route>
-                  <force3d>false</force3d>
-                  <s>.4</s>
-                  <resources>
-                     <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
-                  </resources>
-                  <customizations>
-                          <customization>
-                             <name>interview</name>
-                             <type>url</type>
-                             <node_id>click</node_id>                            <value><![CDATA[http://www.dallasvoice.com/exploring-spirituality-radical-faerie-style-1044232.html]]></value>
-                          </customization>
-                       </customizations>     
+               <name><![CDATA[object2]]></name>
+                  
+                   <author>metaio GmbH</author>
+                   <translation>-30,-30,60</translation>
+                   <o>0,0,90</o>
+                   <mime-type>model/md2</mime-type>
+                   <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
+                   <s>.5</s>
+                   <route>false</route>
+                   <force3d>true</force3d>
+                   <s>.6</s>
+                   <resources>
+                      <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
+                   </resources>
+                   <customizations>
+                       <customization>
+                         <name>maps</name>
+                         <type>url</type>
+                         <node_id>click</node_id>
+                         <value><![CDATA[http://www.dallasvoice.com/exploring-spirituality-radical-faerie-style-1044232.html]]></value>
+                      </customization>
+                   </customizations>               
+                         
     </poi>
-     <poi id="6" cosid="" interactionfeedback="click">
+     <poi id="6" cosid="4" interactionfeedback="click">
                     <name><![CDATA[Ein UFO]]></name>
                     <author>metaio GmbH</author>
                      <translation>90,0.0,0.0</translation>
@@ -125,7 +129,7 @@
                    
       </poi>
       
-       <poi id="7" cosid="2" interactionfeedback="click">
+       <poi id="7" cosid="5" interactionfeedback="none">
                       <name><![CDATA[Ein UFO]]></name>
                       <author>metaio GmbH</author>
                        <translation>0.0,0.0,0.0</translation>
