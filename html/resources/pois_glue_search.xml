@@ -10,7 +10,7 @@
                   <maxdistance>100000</maxdistance>
                   <mime-type>model/md2</mime-type>
                   <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc]]></mainresource>
-                  <s>.6</s>
+                  <s>.3</s>
                   <force3d>true</force3d>
                   <resources>
                      <resource>http://oaktopia.hyperlocative.com/resources/mag1-1.3gp</resource>
