@@ -54,8 +54,8 @@
         <o>0,0,0</o>
         <mime-type>model/md2</mime-type>
         <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
-        <s>.6</s>
-        <force3d>true</force3d>
+        <s>.3</s>
+        <force3d>false</force3d>
         <resources>
            <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
         </resources>
@@ -78,7 +78,7 @@
                   <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
                   <s>.6</s>
                   <route>false</route>
-                  <force3d>true</force3d>
+                  <force3d>false</force3d>
                   <s>.6</s>
                   <resources>
                      <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
@@ -102,7 +102,7 @@
                   <mime-type>model/md2</mime-type>
                   <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
                   <route>false</route>
-                  <force3d>true</force3d>
+                  <force3d>false</force3d>
                   <s>.6</s>
                   <resources>
                      <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
