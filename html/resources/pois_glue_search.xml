@@ -22,15 +22,15 @@
                  </customizations>       
     </poi>
      
-    <poi id="2" cosid="2" interactionfeedback="none">
+    <poi id="2" cosid="3" interactionfeedback="none">
    
                <name><![CDATA[Ein UFO]]></name>
                <author>metaio GmbH</author>
-                <translation>60,60,60</translation>
-               <o>0,90,0</o>
+                <translation>30,30,0</translation>
+               <o>90,0,0</o>
                <mime-type>model/md2</mime-type>
-               <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/cyber.md2]]></mainresource>
-               <s>.6</s>
+               <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
+               <s>.5</s>
                <force3d>true</force3d>
                <resources>
                   <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
@@ -40,7 +40,7 @@
                          <customization>
                             <name>podcast</name>
                             <type>url</type>
-                            <node_id>onTargetDetect</node_id>
+                            <node_id>click</node_id>
                             <value><![CDATA[playajoy.org]]></value>                     
                          </customization>
                   </customizations>
@@ -50,11 +50,11 @@
                   
         <name><![CDATA[Ein UFO]]></name>
         <author>metaio GmbH</author>
-        <translation>60,-60,60</translation>
-        <o>0,0,0</o>
+        <translation>30,-30,0</translation>
+        <o>0,90,0</o>
         <mime-type>model/md2</mime-type>
         <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
-        <s>.3</s>
+        <s>.5</s>
         <force3d>true</force3d>
         <resources>
            <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
@@ -73,10 +73,10 @@
                   <name><![CDATA[Ein UFO]]></name>
                   <author>metaio GmbH</author>
                   <translation>-60,60,60</translation>
-                  <o>0,0,0</o>
+                  <o>0,0,90</o>
                   <mime-type>model/md2</mime-type>
                   <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
-                  <s>.6</s>
+                  <s>.5</s>
                   <route>false</route>
                   <force3d>true</force3d>
                   <s>.6</s>
@@ -97,7 +97,7 @@
     <poi id="5" cosid="3" interactionfeedback="click">
                <name><![CDATA[object]]></name>
                   <author><![CDATA[metaio]]></author>
-                 <relativetoscreen>.75,.75</relativetoscreen>
+                 <translation>-30,-30,0</translation>
                   <o>0,0,0</o>
                   <mime-type>model/md2</mime-type>
                   <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
@@ -115,22 +115,22 @@
                           </customization>
                        </customizations>     
     </poi>
-     <poi id="6" cosid="6" interactionfeedback="click">
+     <poi id="6" cosid="4" interactionfeedback="click">
                     <name><![CDATA[Ein UFO]]></name>
                     <author>metaio GmbH</author>
                      <translation>90,0.0,0.0</translation>
                     <o>0,0,0</o>
                     <mime-type>model/md2</mime-type>
-                    <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
+                    <mainresource><![http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc]]></mainresource>
                     <s>.6</s>
                     <force3d>true</force3d>
                     <resources>
-                       <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
+                       <resource>http://oaktopia.hyperlocative.com/resources/mag1-1.3gp</resource>
                     </resources>
                    
       </poi>
       
-       <poi id="7" cosid="4" interactionfeedback="click">
+       <poi id="7" cosid="5" interactionfeedback="click">
                       <name><![CDATA[Ein UFO]]></name>
                       <author>metaio GmbH</author>
                        <translation>0.0,0.0,0.0</translation>
