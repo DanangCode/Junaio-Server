@@ -8,18 +8,13 @@
                   <translation>0, 1.57, 1.57</translation>
                   <minaccuracy>2</minaccuracy>
                   <maxdistance>100000</maxdistance>
-                  <mime-type>model/txt</mime-type>
-                  <mainresource></mainresource>
-                  <s>.2</s>
+                  <mime-type>model/md2</mime-type>
+                  <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc]]></mainresource>
+                  <s>.6</s>
                   <force3d>true</force3d>
-                  <customizations>
-                      <customization>
-                          <name>Name</name>
-                       <type>video</type>
-                       <node_id>onTargetDetect</node_id>
-                       <value><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.m4v]]></value>
-                    </customization>
-                 </customizations>       
+                  <resources>
+                     <resource>http://oaktopia.hyperlocative.com/resources/mag1-1.3gp</resource>
+                  </resources>       
     </poi>
      
     <poi id="2" cosid="3" interactionfeedback="none">
@@ -121,7 +116,7 @@
                      <translation>90,0.0,0.0</translation>
                     <o>0,0,0</o>
                     <mime-type>model/md2</mime-type>
-                    <mainresource><![http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc]]></mainresource>
+                    <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc]]></mainresource>
                     <s>.6</s>
                     <force3d>true</force3d>
                     <resources>
@@ -130,7 +125,7 @@
                    
       </poi>
       
-       <poi id="7" cosid="5" interactionfeedback="click">
+       <poi id="7" cosid="2" interactionfeedback="click">
                       <name><![CDATA[Ein UFO]]></name>
                       <author>metaio GmbH</author>
                        <translation>0.0,0.0,0.0</translation>
