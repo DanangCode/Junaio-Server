@@ -18,7 +18,7 @@
                   </resources>       
     </poi>
      
-    <poi id="2" cosid="2" interactionfeedback="click">
+    <poi id="2" cosid="2" interactionfeedback="none">
    
                <name><![CDATA[Ein UFO]]></name>
                <author>metaio GmbH</author>
@@ -37,7 +37,7 @@
                             <name>podcast</name>
                             <type>url</type>
                             <!--"click" will start the sound on user interaction; "idle", once the model is loaded -->
-                            <node_id>click</node_id>
+                            <node_id>onTargetDetect</node_id>
                             <value><![CDATA[http://jasperswardrobe.com/julian-assange-is-a-master-situationist-like]]></value>                     
                          </customization>
                   </customizations>
@@ -61,7 +61,7 @@
                                          <name>Name</name>
                                          <!-- type video will expect a video to be triggered, type url a website. The value determines the path to the trigger result. -->
                                          <type>video</type>
-                                         <node_id>click</node_id>
+                                         <node_id>onTargetDetect</node_id>
                                           <!-- to trigger a website, substitute the video with a url -->
                                          <value><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.m4v]]></value>
                                       </customization>
@@ -104,7 +104,7 @@
                              <name>interview</name>
                              <type>sound</type>
                              <!--"click" will start the sound on user interaction; "idle", once the model is loaded -->
-                             <node_id>click</node_id>
+                             <node_id>onTargetDetect</node_id>
                              <value><![CDATA[http://posterous.com/getfile/files.posterous.com/jaspergregory/dYYL1e0uXkj4guzff8sRwz8Hl8G6hNe8NFWhoBusxOUBrPKq9FwYvihzfeyP/parallelsf-1.mp3]]></value>
                           </customization>
                        </customizations>     
@@ -140,7 +140,7 @@
                                   <name>maps</name>
                                   <type>url</type>
                                   <!--"click" will start the sound on user interaction; "idle", once the model is loaded -->
-                                  <node_id>click</node_id>
+                                  <node_id>onTargetDetect</node_id>
                                   <value><![CDATA[http://hyperlocative.appspot.com/]]></value>
                                </customization>
                             </customizations>
