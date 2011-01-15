@@ -6,40 +6,48 @@
                   <author><![CDATA[metaio]]></author>
                   <o>0.0,0.0,0.0</o>
                   <translation>0, 1.57, 1.57</translation>
-                  <minaccuracy>2</minaccuracy>
-                  <maxdistance>100000</maxdistance>
                   <mime-type>model/md2</mime-type>
-                  <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc]]></mainresource>
+                  <mainresource><![CDATA[]]></mainresource>
                   <s>.2</s>
                   <force3d>true</force3d>
                   <resources>
-                     <resource>http://oaktopia.hyperlocative.com/resources/mag1-1.3gp</resource>
-                  </resources>       
+                     <resource></resource>
+                  </resources> 
+                   <customizations>
+                           <customization>
+                              <name>podcast</name>
+                              <type>url</type>
+                              <node_id>click</node_id>
+                              <value><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]></value>                     
+                           </customization>
+                    </customizations>      
     </poi>
-     
-    <poi id="2" cosid="3" interactionfeedback="none">
-   
-               <name><![CDATA[Ein UFO]]></name>
-               <author>metaio GmbH</author>
-                <translation>30,30,0</translation>
-               <o>90,0,0</o>
-               <mime-type>model/md2</mime-type>
-               <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
-               <s>.5</s>
-               <force3d>true</force3d>
-               <resources>
-                  <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
-               </resources>
+    
+    <poi id="2" cosid="2" interactionfeedback="none">
 
-                 <customizations>
-                         <customization>
-                            <name>podcast</name>
-                            <type>url</type>
-                            <node_id>click</node_id>
-                            <value><![CDATA[playajoy.org]]></value>                     
-                         </customization>
-                  </customizations>
-    </poi>
+                 <name><![CDATA[Ein UFO]]></name>
+                 <author>metaio GmbH</author>
+                  <translation>30,30,0</translation>
+                 <o>90,0,0</o>
+                 <mime-type>model/md2</mime-type>
+                 <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
+                 <s>.5</s>
+                 <force3d>true</force3d>
+                 <resources>
+                    <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
+                 </resources>
+
+                   <customizations>
+                           <customization>
+                              <name>podcast</name>
+                              <type>url</type>
+                              <node_id>click</node_id>
+                              <value><![CDATA[playajoy.org]]></value>                     
+                           </customization>
+                    </customizations>
+      </poi> 
+     
+ 
          
     <poi id="3" cosid="3" interactionfeedback="none">
                   
@@ -130,33 +138,34 @@
                           <customization>
                             <name>vid</name>
                             <type>video</type>
-                            <node_id>onTargetDetect</node_id>
-                            <value><![CDATA[http://oaktopia.hyperlocative.com/resources/04magazine.3gp]]></value>
+                            <node_id>click</node_id>
+                            <value>http://oaktopia.hyperlocative.com/resources/04magazine.3gp</value>
                          </customization>
                       </customizations>
                    
       </poi>
+      <poi id="7" cosid="2" interactionfeedback="none">
+
+                  <name><![CDATA[Ein UFO]]></name>
+                  <author>metaio GmbH</author>
+                   <translation>0,0,0</translation>
+                  <o>90,0,0</o>
+                  <mime-type>model/md2</mime-type>
+                  <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
+                  <s>.5</s>
+                  <force3d>true</force3d>
+                  <resources>
+                     <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
+                  </resources>
+
+                    <customizations>
+                            <customization>
+                               <name>podcast</name>
+                               <type>url</type>
+                               <node_id>click</node_id>
+                               <value><![CDATA[http://hyperlocative.appspot.com/]]></value>                     
+                            </customization>
+                     </customizations>
+       </poi>
       
-       <poi id="7" cosid="5" interactionfeedback="none">
-                      <name><![CDATA[Ein UFO]]></name>
-                      <author>metaio GmbH</author>
-                       <translation>0.0,0.0,0.0</translation>
-                      <o>0,0,0</o>
-                      <mime-type>model/md2</mime-type>
-                      <mainresource><![CDATA[]]></mainresource>
-                      <s>.6</s>
-                      <force3d>true</force3d>
-                      <resources>
-                         <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
-                      </resources>
-                      
-                      <customizations>
-                          <customization>
-                            <name>maps</name>
-                            <type>url</type>
-                            <node_id>onTargetDetect</node_id>
-                            <value><![CDATA[http://hyperlocative.appspot.com/]]></value>
-                         </customization>
-                      </customizations>
-        </poi>
   </results>
