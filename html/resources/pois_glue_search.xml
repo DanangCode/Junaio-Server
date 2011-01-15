@@ -100,7 +100,7 @@
                    <s>.5</s>
                    <route>false</route>
                    <force3d>true</force3d>
-                   <s>.6</s>
+       
                    <resources>
                       <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
                    </resources>
@@ -120,12 +120,20 @@
                      <translation>90,0.0,0.0</translation>
                     <o>0,0,0</o>
                     <mime-type>model/md2</mime-type>
-                    <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc]]></mainresource>
+                    <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
                     <s>.6</s>
                     <force3d>true</force3d>
                     <resources>
-                       <resource>http://oaktopia.hyperlocative.com/resources/mag1-1.3gp</resource>
-                    </resources>
+                        <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
+                     </resources>
+                     <customizations>
+                          <customization>
+                            <name>vid</name>
+                            <type>video</type>
+                            <node_id>onTargetDetect</node_id>
+                            <value><![CDATA[http://oaktopia.hyperlocative.com/resources/04magazine.3gp]]></value>
+                         </customization>
+                      </customizations>
                    
       </poi>
       
