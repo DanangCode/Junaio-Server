@@ -10,7 +10,7 @@
                   <maxdistance>100000</maxdistance>
                   <mime-type>model/md2</mime-type>
                   <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/movieplane.md2_enc]]></mainresource>
-                  <s>.3</s>
+                  <s>.2</s>
                   <force3d>true</force3d>
                   <resources>
                      <resource>http://oaktopia.hyperlocative.com/resources/mag1-1.3gp</resource>
@@ -98,7 +98,7 @@
                   <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
                   <route>false</route>
                   <force3d>false</force3d>
-                  <s>.6</s>
+                  <s>.4</s>
                   <resources>
                      <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
                   </resources>
@@ -110,7 +110,7 @@
                           </customization>
                        </customizations>     
     </poi>
-     <poi id="6" cosid="4" interactionfeedback="click">
+     <poi id="6" cosid="" interactionfeedback="click">
                     <name><![CDATA[Ein UFO]]></name>
                     <author>metaio GmbH</author>
                      <translation>90,0.0,0.0</translation>
