@@ -89,7 +89,7 @@
                   <customizations>
                       <customization>
                         <name>maps</name>
-                        <type>url</type>
+                        <type>video</type>
                         <node_id>click</node_id>
                         <value><![CDATA[http://m.facebook.com/group.php?gid=2227363758]]></value>
                      </customization>
