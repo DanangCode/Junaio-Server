@@ -26,10 +26,10 @@
    
                <name><![CDATA[Ein UFO]]></name>
                <author>metaio GmbH</author>
-                <translation>0.0,0.0,0.0</translation>
-               <o>0,0,0</o>
+                <translation>60,60,60</translation>
+               <o>0,90,0</o>
                <mime-type>model/md2</mime-type>
-               <mainresource><![CDATA[]]></mainresource>
+               <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/cyber.md2]]></mainresource>
                <s>.6</s>
                <force3d>true</force3d>
                <resources>
@@ -50,12 +50,12 @@
                   
         <name><![CDATA[Ein UFO]]></name>
         <author>metaio GmbH</author>
-         <relativetoscreen>.75,.25</relativetoscreen>
+        <translation>60,-60,60</translation>
         <o>0,0,0</o>
         <mime-type>model/md2</mime-type>
         <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
         <s>.3</s>
-        <force3d>false</force3d>
+        <force3d>true</force3d>
         <resources>
            <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
         </resources>
@@ -72,13 +72,13 @@
     <poi id="4" cosid="3" interactionfeedback="none">
                   <name><![CDATA[Ein UFO]]></name>
                   <author>metaio GmbH</author>
-                  <relativetoscreen>.25,.25</relativetoscreen>
+                  <translation>-60,60,60</translation>
                   <o>0,0,0</o>
                   <mime-type>model/md2</mime-type>
                   <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
                   <s>.6</s>
                   <route>false</route>
-                  <force3d>false</force3d>
+                  <force3d>true</force3d>
                   <s>.6</s>
                   <resources>
                      <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
