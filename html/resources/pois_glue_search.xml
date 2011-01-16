@@ -173,7 +173,7 @@
                        <translation>0,0.0,0.0</translation>
                       <o>0,0,0</o>
                       <mime-type>model/obj</mime-type>
-                      <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/cube.zip]]></mainresource>
+                      <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/torus.zip]]></mainresource>
                       <s>20</s>
                       <force3d>true</force3d>
                      
