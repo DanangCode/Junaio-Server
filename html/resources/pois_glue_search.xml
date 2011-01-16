@@ -170,11 +170,12 @@
        <poi id="8" cosid="5" interactionfeedback="click">
                       <name><![CDATA[Ein UFO]]></name>
                       <author>metaio GmbH</author>
-                       <translation>0,0.0,0.0</translation>
-                      <o>0,0,0</o>
+                       
+                      <o>0,45,-20</o>
+                      <translation>0,0.0,0.0</translation>
                       <mime-type>model/obj</mime-type>
                       <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/torus.zip]]></mainresource>
-                      <s>20</s>
+                      <s>30</s>
                       <force3d>true</force3d>
                      
         </poi>
