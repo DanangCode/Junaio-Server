@@ -4,7 +4,7 @@
     <poi id="1" cosid="1" interactionfeedback="click">
              <name><![CDATA[TimeOut Video]]></name>
                   <author><![CDATA[metaio]]></author>
-                  <o>90,0,90</o>
+                  <o>0,0,0</o>
                   <translation>0, 1.57, 1.57</translation>
                   <mime-type>model/md2</mime-type>
                   <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
@@ -30,8 +30,8 @@
                   <translation>30,30,0</translation>
                  <o>90,0,0</o>
                  <mime-type>model/md2</mime-type>
-                 <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
-                 <s>.5</s>
+                 <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+                 <s>60</s>
                  <force3d>true</force3d>
                  <resources>
                     <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
@@ -56,8 +56,8 @@
         <translation>30,-30,0</translation>
         <o>0,90,0</o>
         <mime-type>model/md2</mime-type>
-        <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
-        <s>.5</s>
+        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+        <s>60</s>
         <force3d>true</force3d>
         <resources>
            <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
@@ -78,8 +78,8 @@
                   <translation>-30,30,60</translation>
                   <o>0,0,90</o>
                   <mime-type>model/md2</mime-type>
-                  <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
-                  <s>.5</s>
+                  <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+                  <s>60</s>
                   <route>false</route>
                   <force3d>true</force3d>
                   <s>.6</s>
@@ -104,8 +104,8 @@
                    <translation>-30,-30,60</translation>
                    <o>0,0,90</o>
                    <mime-type>model/md2</mime-type>
-                   <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
-                   <s>.5</s>
+                   <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+                   <s>60</s>
                    <route>false</route>
                    <force3d>true</force3d>
        
@@ -128,7 +128,7 @@
                      <translation>0,0.0,0.0</translation>
                     <o>90,0,0</o>
                     <mime-type>model/md2</mime-type>
-                    <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
+                    <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
                     <s>.6</s>
                     <force3d>true</force3d>
                     <resources>
@@ -151,8 +151,8 @@
                    <translation>0,0,0</translation>
                   <o>90,0,0</o>
                   <mime-type>model/md2</mime-type>
-                  <mainresource><![CDATA[http://www.junaio.com/publisherDownload/tutorial/metaioman.md2_enc]]></mainresource>
-                  <s>.5</s>
+                  <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+                  <s>60</s>
                   <force3d>true</force3d>
                   <resources>
                      <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
