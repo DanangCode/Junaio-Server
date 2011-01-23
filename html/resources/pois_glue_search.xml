@@ -57,11 +57,9 @@
         <o>0,90,0</o>
         <mime-type>model/md2</mime-type>
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
-        <s>60</s>
+        <s>40</s>
         <force3d>true</force3d>
-        <resources>
-           <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
-        </resources>
+
         <customizations>
             <customization>
                <name>wikipedia</name>
@@ -84,7 +82,7 @@
                   <force3d>true</force3d>
                   <s>.6</s>
                   <resources>
-                     <resource>http://www.junaio.com/publisherDownload/tutorial/metaioman.png</resource>
+                     <resource>http://oaktopia.hyperlocative.com/resources/jasper_100.png</resource>
                   </resources>
                   <customizations>
                       <customization>
