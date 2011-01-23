@@ -78,7 +78,9 @@
                   <s>60</s>
                   <route>false</route>
                   <force3d>true</force3d>
-                 
+                  <resources>
+                     <resource>http://oaktopia.hyperlocative.com/resources/obj/fingerpaint.jpg</resource>
+                  </resources>
                   <customizations>
                       <customization>
                         <name>maps</name>
