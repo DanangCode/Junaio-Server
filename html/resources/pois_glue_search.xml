@@ -6,7 +6,7 @@
         <o>0,1.57, 1.57</o>
         <translation>0, 0, 0</translation>
         <mime-type>model/md2</mime-type>
-        <mainresource></mainresource>
+        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
         <s>.2</s>
         <force3d>true</force3d>
         <resources>
