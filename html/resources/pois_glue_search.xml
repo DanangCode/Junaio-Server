@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <results trackingurl="http://oaktopia.hyperlocative.com/resources/tracking.xml_enc">
     
-    <poi id="1" cosid="3" interactionfeedback="click">
+    <poi id="1" cosid="1" interactionfeedback="click">
       <name><![CDATA[1]]></name>
         <o>0,1.57, 1.57</o>
         <translation>60, 60, 0</translation>
