@@ -2,10 +2,8 @@
 <results trackingurl="http://oaktopia.hyperlocative.com/resources/tracking.xml_enc">
     
     <poi id="1" cosid="1" interactionfeedback="click">
-             <name><![CDATA[TimeOut Video]]></name>
-                  <author><![CDATA[metaio]]></author>
                   <o>0,1.57, 1.57</o>
-                  <translation>0, , 0</translation>
+                  <translation>0, 0, 0</translation>
                   <mime-type>model/md2</mime-type>
                   <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
                   <s>.2</s>
@@ -26,15 +24,11 @@
    
   
     <poi id="2" cosid="3" interactionfeedback="none">
-
-                 <name><![CDATA[Ein UFO]]></name>
-                 <author>metaio GmbH</author>
-                  <translation>30,30,0</translation>
-                 <o>90,0,0</o>
+                 <o>0,1.57, 1.57</o>
+                 <translation>60, 60, 0</translation>
                  <mime-type>model/md2</mime-type>
                  <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
-                 <s>40</s>
-                 <force3d>true</force3d>
+                 <s>.2</s>
                  <resources>
                     <resource>http://oaktopia.hyperlocative.com/resources/jasper_100.png</resource>
                  </resources>
@@ -53,14 +47,11 @@
          
     <poi id="3" cosid="3" interactionfeedback="none">
                   
-        <name><![CDATA[Ein UFO]]></name>
-        <author>metaio GmbH</author>
-        <translation>30,-30,0</translation>
-        <o>0,90,0</o>
-        <mime-type>model/md2</mime-type>
-        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
-        <s>40</s>
-        <force3d>true</force3d>
+        <o>0,1.57, 1.57</o>
+         <translation>-60, -60, 0</translation>
+         <mime-type>model/md2</mime-type>
+         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+         <s>.2</s>
         <resources>
            <resource>http://farm5.static.flickr.com/4114/4750847094_8ae71c50d0_m.jpg</resource>
         </resources>
@@ -76,15 +67,11 @@
     </poi>
             
     <poi id="4" cosid="3" interactionfeedback="none">
-                  <name><![CDATA[Ein UFO]]></name>
-                  <author>metaio GmbH</author>
-                  <translation>-30,30,60</translation>
-                  <o>0,0,90</o>
+                 <o>0,1.57, 1.57</o>
+                  <translation>-60, 60, 0</translation>
                   <mime-type>model/md2</mime-type>
                   <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
-                  <s>60</s>
-                  <route>false</route>
-                  <force3d>true</force3d>
+                  <s>.2</s>
                   <resources>
                      <resource>http://oaktopia.hyperlocative.com/resources/obj/fingerpaint.jpg</resource>
                   </resources>
@@ -100,16 +87,11 @@
                
                
     <poi id="5" cosid="3" interactionfeedback="click">
-               <name><![CDATA[object2]]></name>
-                  
-                   <author>metaio GmbH</author>
-                   <translation>-30,-30,60</translation>
-                   <o>0,0,90</o>
-                   <mime-type>model/md2</mime-type>
-                   <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
-                   <s>40</s>
-                   <route>false</route>
-                   <force3d>true</force3d>
+        <o>0,1.57, 1.57</o>
+       <translation>60, -60, 0</translation>
+       <mime-type>model/md2</mime-type>
+       <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+       <s>.2</s>
                    <resources>
                        <resource>http://oaktopia.hyperlocative.com/resources/3d/image.png</resource>
                     </resources>
@@ -124,14 +106,11 @@
                          
     </poi>
      <poi id="6" cosid="4" interactionfeedback="click">
-                    <name><![CDATA[Ein UFO]]></name>
-                    <author>metaio GmbH</author>
-                     <translation>0,0.0,0.0</translation>
-                    <o>90,0,0</o>
-                    <mime-type>model/md2</mime-type>
-                    <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
-                    <s>40</s>
-                    <force3d>true</force3d>
+        <o>0,1.57, 1.57</o>
+         <translation>0, , 0</translation>
+         <mime-type>model/md2</mime-type>
+         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+         <s>.2</s>
                      <customizations>
                           <customization>
                             <name>vid</name>
@@ -143,17 +122,11 @@
                    
       </poi>
       <poi id="7" cosid="2" interactionfeedback="none">
-
-                  <name><![CDATA[Ein UFO]]></name>
-                  <author>metaio GmbH</author>
-                   <translation>0,0,0</translation>
-                  <o>90,0,0</o>
-                  <mime-type>model/md2</mime-type>
-                  <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
-                  <s>40</s>
-                  <force3d>true</force3d>
-
-
+        <o>0,1.57, 1.57</o>
+         <translation>0, , 0</translation>
+         <mime-type>model/md2</mime-type>
+         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+         <s>.2</s>
                     <customizations>
                             <customization>
                                <name>podcast</name>
@@ -164,15 +137,11 @@
                      </customizations>
        </poi>
        <poi id="8" cosid="5" interactionfeedback="click">
-                      <name><![CDATA[Ein UFO]]></name>
-                      <author>metaio GmbH</author>
-                       
-                      <o>0,45,-20</o>
-                      <translation>0,0.0,0.0</translation>
-                      <mime-type>model/obj</mime-type>
-                      <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
-                      <s>50</s>
-                      <force3d>true</force3d>
+          <o>0,1.57, 1.57</o>
+           <translation>0, , 0</translation>
+           <mime-type>model/md2</mime-type>
+           <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+           <s>.2</s>
                      
         </poi>
       
