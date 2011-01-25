@@ -33,7 +33,7 @@
        <s>.2</s>
        <force3d>true</force3d>
        <resources>
-          <resource>http://oaktopia.hyperlocative.com/resources/jasper_100.png</resource>
+          <resource></resource>
        </resources>
 
          <customizations>
@@ -48,15 +48,16 @@
      
  
          
-    <!--poi id="3" cosid="3" interactionfeedback="none">
+    <poi id="3" cosid="3" interactionfeedback="none">
         <name><![CDATA[3]]></name>          
         <o>0,1.57, 1.57</o>
-         <translation>-60, -60, 0</translation>
+         <translation>-70, -60, 0</translation>
          <mime-type>model/md2</mime-type>
          <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
          <s>.2</s>
+         <force3d>true</force3d>
         <resources>
-           <resource>http://farm5.static.flickr.com/4114/4750847094_8ae71c50d0_m.jpg</resource>
+           <resource></resource>
         </resources>
 
         <customizations>
@@ -72,10 +73,11 @@
     <poi id="4" cosid="3" interactionfeedback="none">
       <name><![CDATA[4]]></name>
         <o>0,1.57, 1.57</o>
-        <translation>-60, 60, 0</translation>
+        <translation>70, -60, 0</translation>
         <mime-type>model/md2</mime-type>
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
         <s>.2</s>
+        <force3d>true</force3d>
         <resources>
            <resource>http://oaktopia.hyperlocative.com/resources/obj/fingerpaint.jpg</resource>
         </resources>
