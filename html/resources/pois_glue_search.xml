@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <results trackingurl="http://oaktopia.hyperlocative.com/resources/tracking.xml_enc">
     
-    <!-- poi id="1" cosid="" interactionfeedback="click">
+    <poi id="1" cosid="3" interactionfeedback="click">
       <name><![CDATA[1]]></name>
         <o>0,1.57, 1.57</o>
-        <translation>0, 0, 0</translation>
+        <translation>60, 60, 0</translation>
         <mime-type>model/md2</mime-type>
         <mainresource></mainresource>
         <s>.2</s>
@@ -20,11 +20,11 @@
                     <value><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]></value>                     
                  </customization>
           </customizations>      
-    </poi-->
+    </poi>
     
    
   
-    <poi id="2" cosid="3" interactionfeedback="none">
+    <!--poi id="2" cosid="3" interactionfeedback="none">
       <name><![CDATA[2]]></name>
        <o>0,1.57, 1.57</o>
        <translation>60, 60, 0</translation>
@@ -43,7 +43,7 @@
                     <value><![CDATA[http://playajoy.org]]></value>                     
                  </customization>
           </customizations>
-</poi> 
+</poi--> 
      
  
          
