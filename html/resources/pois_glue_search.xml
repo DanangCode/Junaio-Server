@@ -97,9 +97,9 @@
        <mime-type>model/md2</mime-type>
        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
        <s>.2</s>
-        <resources>
+        <!--resources>
            <resource>http://oaktopia.hyperlocative.com/resources/3d/image.png</resource>
-        </resources>
+        </resources-->
        <customizations>
            <customization>
              <name>maps</name>
