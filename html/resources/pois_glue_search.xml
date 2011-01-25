@@ -18,11 +18,9 @@
                     <value><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]></value>                     
                  </customization>
           </customizations>      
-    </poi>
-    
-   
+    </poi> 
   
-    <!--poi id="2" cosid="3" interactionfeedback="none">
+    <poi id="2" cosid="3" interactionfeedback="none">
       <name><![CDATA[2]]></name>
        <o>0,1.57, 1.57</o>
        <translation>-70, 20, 0</translation>
@@ -107,9 +105,9 @@
              <node_id>click</node_id>
              <value><![CDATA[http://www.dallasvoice.com/exploring-spirituality-radical-faerie-style-1044232.html]]></value>
           </customization>
-       </customizations>               
-                 
-    </poi-->
+       </customizations>                            
+    </poi>
+    
      <!-- poi id="6" cosid="4" interactionfeedback="click">
        <name><![CDATA[6]]></name>
         <o>0,1.57, 1.57</o>
