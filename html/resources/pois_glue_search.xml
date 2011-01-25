@@ -5,7 +5,7 @@
         <o>0,1.57, 1.57</o>
         <translation>0, 0, 0</translation>
         <mime-type>model/md2</mime-type>
-        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+        <mainresource></mainresource>
         <s>.2</s>
         <force3d>true</force3d>
         <resources>
@@ -109,7 +109,7 @@
         <o>0,1.57, 1.57</o>
          <translation>0, , 0</translation>
          <mime-type>model/md2</mime-type>
-         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+         <mainresource></mainresource>
          <s>.2</s>
          <customizations>
               <customization>
@@ -126,23 +126,23 @@
         <o>0,1.57, 1.57</o>
          <translation>0, 0, 0</translation>
          <mime-type>model/md2</mime-type>
-         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+         <mainresource></mainresource>
          <s>.2</s>
-                    <customizations>
-                            <customization>
-                               <name>podcast</name>
-                               <type>url</type>
-                               <node_id>click</node_id>
-                               <value><![CDATA[http://hyperlocative.appspot.com/]]></value>                     
-                            </customization>
-                     </customizations>
+         <customizations>
+                <customization>
+                   <name>podcast</name>
+                   <type>url</type>
+                   <node_id>click</node_id>
+                   <value><![CDATA[http://hyperlocative.appspot.com/]]></value>                     
+                </customization>
+         </customizations>
        </poi>
        
        <poi id="8" cosid="5" interactionfeedback="click">
           <o>0,1.57, 1.57</o>
            <translation>0, 0, 0</translation>
            <mime-type>model/md2</mime-type>
-           <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+           <mainresource></mainresource>
            <s>.2</s>
                      
         </poi>
