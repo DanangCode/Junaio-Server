@@ -7,11 +7,11 @@
                   <o>0,0,0</o>
                   <translation>0, 1.57, 1.57</translation>
                   <mime-type>model/md2</mime-type>
-                  <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
-                  <s>40</s>
+                  <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+                  <s>.5</s>
                   <force3d>true</force3d>
                   <resources>
-                     <resource></resource>
+                     <resource>http://farm5.static.flickr.com/4114/4750847094_8ae71c50d0.jpg</resource>
                   </resources> 
                    <customizations>
                            <customization>
@@ -22,6 +22,8 @@
                            </customization>
                     </customizations>      
     </poi>
+    
+   
   
     <poi id="2" cosid="3" interactionfeedback="none">
 

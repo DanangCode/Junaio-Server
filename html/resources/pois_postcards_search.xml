@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results trackingurl="http://oaktopia.hyperlocative.com/resources/postcards_tracking.xml_enc">
+    
+    <poi id="1" cosid="1" interactionfeedback="click">
+             <name><![CDATA[TimeOut Video]]></name>
+                  <author><![CDATA[metaio]]></author>
+                  <o>0,0,0</o>
+                  <translation>0, 1.57, 1.57</translation>
+                  <mime-type>model/md2</mime-type>
+                  <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+                  <s>40</s>
+                  <force3d>true</force3d>
+                  <resources>
+                     <resource></resource>
+                  </resources> 
+                   <customizations>
+                           <customization>
+                              <name>podcast</name>
+                              <type>url</type>
+                              <node_id>click</node_id>
+                              <value><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]></value>                     
+                           </customization>
+                    </customizations>      
+    </poi>
+  
+    <poi id="2" cosid="2" interactionfeedback="none">
+
+                 <name><![CDATA[Ein UFO]]></name>
+                 <author>metaio GmbH</author>
+                  <translation>30,30,0</translation>
+                 <o>90,0,0</o>
+                 <mime-type>model/md2</mime-type>
+                 <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+                 <s>40</s>
+                 <force3d>true</force3d>
+  
+
+                   <customizations>
+                           <customization>
+                              <name>podcast</name>
+                              <type>url</type>
+                              <node_id>click</node_id>
+                              <value><![CDATA[http://playajoy.org]]></value>                     
+                           </customization>
+                    </customizations>
+      </poi> 
+     
+      
+  </results>
