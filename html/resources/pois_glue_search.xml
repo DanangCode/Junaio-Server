@@ -15,7 +15,7 @@
                     <name>podcast</name>
                     <type>url</type>
                     <node_id>click</node_id>
-                    <value><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]></value>                     
+                    <value><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]> </value>                     
                  </customization>
           </customizations>      
     </poi> 
