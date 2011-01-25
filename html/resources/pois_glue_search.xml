@@ -2,6 +2,7 @@
 <results trackingurl="http://oaktopia.hyperlocative.com/resources/tracking.xml_enc">
     
     <poi id="1" cosid="" interactionfeedback="click">
+      <name><![CDATA[1]]></name>
         <o>0,1.57, 1.57</o>
         <translation>0, 0, 0</translation>
         <mime-type>model/md2</mime-type>
@@ -24,6 +25,7 @@
    
   
     <poi id="2" cosid="3" interactionfeedback="none">
+      <name><![CDATA[2]]></name>
        <o>0,1.57, 1.57</o>
        <translation>60, 60, 0</translation>
        <mime-type>model/md2</mime-type>
@@ -46,7 +48,7 @@
  
          
     <poi id="3" cosid="3" interactionfeedback="none">
-                  
+        <name><![CDATA[3]]></name>          
         <o>0,1.57, 1.57</o>
          <translation>-60, -60, 0</translation>
          <mime-type>model/md2</mime-type>
@@ -67,6 +69,7 @@
     </poi>
             
     <poi id="4" cosid="3" interactionfeedback="none">
+      <name><![CDATA[4]]></name>
         <o>0,1.57, 1.57</o>
         <translation>-60, 60, 0</translation>
         <mime-type>model/md2</mime-type>
@@ -87,6 +90,7 @@
                
                
     <poi id="5" cosid="3" interactionfeedback="click">
+      <name><![CDATA[5]]></name>
         <o>0,1.57, 1.57</o>
        <translation>60, -60, 0</translation>
        <mime-type>model/md2</mime-type>
@@ -106,6 +110,7 @@
                  
     </poi>
      <poi id="6" cosid="4" interactionfeedback="click">
+       <name><![CDATA[6]]></name>
         <o>0,1.57, 1.57</o>
          <translation>0, , 0</translation>
          <mime-type>model/md2</mime-type>
@@ -123,6 +128,7 @@
       </poi>
       
       <poi id="7" cosid="2" interactionfeedback="none">
+        <name><![CDATA[7]]></name>
         <o>0,1.57, 1.57</o>
          <translation>0, 0, 0</translation>
          <mime-type>model/md2</mime-type>
@@ -139,6 +145,7 @@
        </poi>
        
        <poi id="8" cosid="5" interactionfeedback="click">
+         <name><![CDATA[8]]></name>
           <o>0,1.57, 1.57</o>
            <translation>0, 0, 0</translation>
            <mime-type>model/md2</mime-type>
