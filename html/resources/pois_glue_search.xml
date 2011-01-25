@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <results trackingurl="http://oaktopia.hyperlocative.com/resources/tracking.xml_enc">
     
-    <poi id="1" cosid="1" interactionfeedback="click">
-                  <o>0,1.57, 1.57</o>
-                  <translation>0, 0, 0</translation>
-                  <mime-type>model/md2</mime-type>
-                  <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
-                  <s>.2</s>
-                  <force3d>true</force3d>
-                  <resources>
-                     <resource>http://farm5.static.flickr.com/4114/4750847094_8ae71c50d0_m.jpg</resource>
-                  </resources> 
-                   <customizations>
-                           <customization>
-                              <name>podcast</name>
-                              <type>url</type>
-                              <node_id>click</node_id>
-                              <value><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]></value>                     
-                           </customization>
-                    </customizations>      
+    <poi id="1" cosid="" interactionfeedback="click">
+        <o>0,1.57, 1.57</o>
+        <translation>0, 0, 0</translation>
+        <mime-type>model/md2</mime-type>
+        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+        <s>.2</s>
+        <force3d>true</force3d>
+        <resources>
+           <resource>http://farm5.static.flickr.com/4114/4750847094_8ae71c50d0_m.jpg</resource>
+        </resources> 
+         <customizations>
+                 <customization>
+                    <name>podcast</name>
+                    <type>url</type>
+                    <node_id>click</node_id>
+                    <value><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]></value>                     
+                 </customization>
+          </customizations>      
     </poi>
     
    
   
     <poi id="2" cosid="3" interactionfeedback="none">
-                 <o>0,1.57, 1.57</o>
-                 <translation>60, 60, 0</translation>
-                 <mime-type>model/md2</mime-type>
-                 <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
-                 <s>.2</s>
-                 <resources>
-                    <resource>http://oaktopia.hyperlocative.com/resources/jasper_100.png</resource>
-                 </resources>
+       <o>0,1.57, 1.57</o>
+       <translation>60, 60, 0</translation>
+       <mime-type>model/md2</mime-type>
+       <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+       <s>.2</s>
+       <resources>
+          <resource>http://oaktopia.hyperlocative.com/resources/jasper_100.png</resource>
+       </resources>
 
-                   <customizations>
-                           <customization>
-                              <name>podcast</name>
-                              <type>url</type>
-                              <node_id>click</node_id>
-                              <value><![CDATA[http://playajoy.org]]></value>                     
-                           </customization>
-                    </customizations>
-      </poi> 
+         <customizations>
+                 <customization>
+                    <name>podcast</name>
+                    <type>url</type>
+                    <node_id>click</node_id>
+                    <value><![CDATA[http://playajoy.org]]></value>                     
+                 </customization>
+          </customizations>
+</poi> 
      
  
          
@@ -67,22 +67,22 @@
     </poi>
             
     <poi id="4" cosid="3" interactionfeedback="none">
-                 <o>0,1.57, 1.57</o>
-                  <translation>-60, 60, 0</translation>
-                  <mime-type>model/md2</mime-type>
-                  <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
-                  <s>.2</s>
-                  <resources>
-                     <resource>http://oaktopia.hyperlocative.com/resources/obj/fingerpaint.jpg</resource>
-                  </resources>
-                  <customizations>
-                      <customization>
-                        <name>maps</name>
-                        <type>video</type>
-                        <node_id>click</node_id>
-                        <value><![CDATA[http://m.facebook.com/group.php?gid=2227363758]]></value>
-                     </customization>
-                  </customizations>
+        <o>0,1.57, 1.57</o>
+        <translation>-60, 60, 0</translation>
+        <mime-type>model/md2</mime-type>
+        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+        <s>.2</s>
+        <resources>
+           <resource>http://oaktopia.hyperlocative.com/resources/obj/fingerpaint.jpg</resource>
+        </resources>
+        <customizations>
+            <customization>
+              <name>maps</name>
+              <type>video</type>
+              <node_id>click</node_id>
+              <value><![CDATA[http://m.facebook.com/group.php?gid=2227363758]]></value>
+           </customization>
+        </customizations>
     </poi>
                
                
@@ -92,18 +92,18 @@
        <mime-type>model/md2</mime-type>
        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
        <s>.2</s>
-                   <resources>
-                       <resource>http://oaktopia.hyperlocative.com/resources/3d/image.png</resource>
-                    </resources>
-                   <customizations>
-                       <customization>
-                         <name>maps</name>
-                         <type>url</type>
-                         <node_id>click</node_id>
-                         <value><![CDATA[http://www.dallasvoice.com/exploring-spirituality-radical-faerie-style-1044232.html]]></value>
-                      </customization>
-                   </customizations>               
-                         
+        <resources>
+           <resource>http://oaktopia.hyperlocative.com/resources/3d/image.png</resource>
+        </resources>
+       <customizations>
+           <customization>
+             <name>maps</name>
+             <type>url</type>
+             <node_id>click</node_id>
+             <value><![CDATA[http://www.dallasvoice.com/exploring-spirituality-radical-faerie-style-1044232.html]]></value>
+          </customization>
+       </customizations>               
+                 
     </poi>
      <poi id="6" cosid="4" interactionfeedback="click">
         <o>0,1.57, 1.57</o>
@@ -111,19 +111,20 @@
          <mime-type>model/md2</mime-type>
          <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
          <s>.2</s>
-                     <customizations>
-                          <customization>
-                            <name>vid</name>
-                            <type>video</type>
-                            <node_id>click</node_id>
-                            <value>http://oaktopia.hyperlocative.com/resources/04magazine.3gp</value>
-                         </customization>
-                      </customizations>
+         <customizations>
+              <customization>
+                <name>vid</name>
+                <type>video</type>
+                <node_id>click</node_id>
+                <value>http://oaktopia.hyperlocative.com/resources/04magazine.3gp</value>
+             </customization>
+          </customizations>
                    
       </poi>
+      
       <poi id="7" cosid="2" interactionfeedback="none">
         <o>0,1.57, 1.57</o>
-         <translation>0, , 0</translation>
+         <translation>0, 0, 0</translation>
          <mime-type>model/md2</mime-type>
          <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
          <s>.2</s>
@@ -136,9 +137,10 @@
                             </customization>
                      </customizations>
        </poi>
+       
        <poi id="8" cosid="5" interactionfeedback="click">
           <o>0,1.57, 1.57</o>
-           <translation>0, , 0</translation>
+           <translation>0, 0, 0</translation>
            <mime-type>model/md2</mime-type>
            <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
            <s>.2</s>
