@@ -70,7 +70,7 @@
          </customizations>      
     </poi>
             
-    <!-- poi id="4" cosid="3" interactionfeedback="none">
+    <poi id="4" cosid="3" interactionfeedback="none">
       <name><![CDATA[4]]></name>
         <o>0,1.57, 1.57</o>
         <translation>70, -100, 0</translation>
@@ -112,7 +112,7 @@
        </customizations>               
                  
     </poi>
-     <poi id="6" cosid="4" interactionfeedback="click">
+     <!-- poi id="6" cosid="4" interactionfeedback="click">
        <name><![CDATA[6]]></name>
         <o>0,1.57, 1.57</o>
          <translation>0, , 0</translation>
