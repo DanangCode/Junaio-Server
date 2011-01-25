@@ -29,7 +29,7 @@
        <s>.2</s>
        <force3d>true</force3d>
        <resources>
-          <resource></resource>
+          <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]></resource>
        </resources>
 
          <customizations>
