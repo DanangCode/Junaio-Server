@@ -5,13 +5,13 @@
              <name><![CDATA[TimeOut Video]]></name>
                   <author><![CDATA[metaio]]></author>
                   <o>0,1.57, 1.57</o>
-                  <translation>0, 0, 0</translation>
+                  <translation>0, 7, 0</translation>
                   <mime-type>model/md2</mime-type>
                   <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
                   <s>.3</s>
                   <force3d>true</force3d>
                   <resources>
-                     <resource>http://farm5.static.flickr.com/4114/4750847094_8ae71c50d0_m.jpg</resource>
+                     <resource>http://farm5.static.flickr.com/4114/4750847094_8ae71c50d0_s.jpg</resource>
                   </resources> 
                    <customizations>
                            <customization>
