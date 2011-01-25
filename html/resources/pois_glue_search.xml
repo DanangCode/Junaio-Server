@@ -24,13 +24,14 @@
     
    
   
-    <!--poi id="2" cosid="3" interactionfeedback="none">
+    <poi id="2" cosid="3" interactionfeedback="none">
       <name><![CDATA[2]]></name>
        <o>0,1.57, 1.57</o>
-       <translation>60, 60, 0</translation>
+       <translation>-70, 20, 0</translation>
        <mime-type>model/md2</mime-type>
        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
        <s>.2</s>
+       <force3d>true</force3d>
        <resources>
           <resource>http://oaktopia.hyperlocative.com/resources/jasper_100.png</resource>
        </resources>
@@ -43,7 +44,7 @@
                     <value><![CDATA[http://playajoy.org]]></value>                     
                  </customization>
           </customizations>
-</poi--> 
+</poi> 
      
  
          
