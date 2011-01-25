@@ -5,10 +5,10 @@
              <name><![CDATA[TimeOut Video]]></name>
                   <author><![CDATA[metaio]]></author>
                   <o>0,1.57, 1.57</o>
-                  <translation>0, 7, 0</translation>
+                  <translation>0, , 0</translation>
                   <mime-type>model/md2</mime-type>
                   <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
-                  <s>.17</s>
+                  <s>.2</s>
                   <force3d>true</force3d>
                   <resources>
                      <resource>http://farm5.static.flickr.com/4114/4750847094_8ae71c50d0_m.jpg</resource>
@@ -32,10 +32,12 @@
                   <translation>30,30,0</translation>
                  <o>90,0,0</o>
                  <mime-type>model/md2</mime-type>
-                 <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+                 <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
                  <s>40</s>
                  <force3d>true</force3d>
-  
+                 <resources>
+                    <resource>http://oaktopia.hyperlocative.com/resources/jasper_100.png</resource>
+                 </resources>
 
                    <customizations>
                            <customization>
@@ -56,9 +58,12 @@
         <translation>30,-30,0</translation>
         <o>0,90,0</o>
         <mime-type>model/md2</mime-type>
-        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
         <s>40</s>
         <force3d>true</force3d>
+        <resources>
+           <resource>http://farm5.static.flickr.com/4114/4750847094_8ae71c50d0_m.jpg</resource>
+        </resources>
 
         <customizations>
             <customization>
@@ -76,7 +81,7 @@
                   <translation>-30,30,60</translation>
                   <o>0,0,90</o>
                   <mime-type>model/md2</mime-type>
-                  <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+                  <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
                   <s>60</s>
                   <route>false</route>
                   <force3d>true</force3d>
@@ -101,11 +106,13 @@
                    <translation>-30,-30,60</translation>
                    <o>0,0,90</o>
                    <mime-type>model/md2</mime-type>
-                   <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+                   <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
                    <s>40</s>
                    <route>false</route>
                    <force3d>true</force3d>
-       
+                   <resources>
+                       <resource>http://oaktopia.hyperlocative.com/resources/3d/image.png</resource>
+                    </resources>
                    <customizations>
                        <customization>
                          <name>maps</name>
@@ -122,7 +129,7 @@
                      <translation>0,0.0,0.0</translation>
                     <o>90,0,0</o>
                     <mime-type>model/md2</mime-type>
-                    <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+                    <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
                     <s>40</s>
                     <force3d>true</force3d>
                      <customizations>
@@ -142,7 +149,7 @@
                    <translation>0,0,0</translation>
                   <o>90,0,0</o>
                   <mime-type>model/md2</mime-type>
-                  <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+                  <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
                   <s>40</s>
                   <force3d>true</force3d>
 
@@ -163,7 +170,7 @@
                       <o>0,45,-20</o>
                       <translation>0,0.0,0.0</translation>
                       <mime-type>model/obj</mime-type>
-                      <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/text.zip]]></mainresource>
+                      <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
                       <s>50</s>
                       <force3d>true</force3d>
                      
