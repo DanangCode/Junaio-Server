@@ -9,15 +9,17 @@
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/plane.zip]]></mainresource>
         <s>.2</s>
         <force3d>true</force3d>
-       
-         <customizations>
+           <resources>
+              <resource><![CDATA[http://farm5.static.flickr.com/4114/4750847094_8ae71c50d0_m.jpg]]></resource>
+           </resources>
+         <!--customizations>
                  <customization>
                     <name>podcast</name>
                     <type>url</type>
                     <node_id>click</node_id>
                     <value><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]> </value>                     
                  </customization>
-          </customizations>      
+          </customizations-->      
     </poi> 
   
     <poi id="2" cosid="3" interactionfeedback="none">
@@ -32,19 +34,19 @@
           <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]></resource>
        </resources>
 
-         <customizations>
+         <!--customizations>
                  <customization>
                     <name>podcast</name>
                     <type>url</type>
                     <node_id>click</node_id>
                     <value><![CDATA[http://playajoy.org]]></value>                     
                  </customization>
-          </customizations>
+          </customizations-->
 </poi> 
      
  
          
-    <poi id="3" cosid="3" interactionfeedback="none">
+    <!--poi id="3" cosid="3" interactionfeedback="none">
         <name><![CDATA[3]]></name>          
         <o>0,1.57, 1.57</o>
          <translation>-20, -100, 0</translation>
@@ -69,7 +71,7 @@
     <poi id="4" cosid="3" interactionfeedback="none">
       <name><![CDATA[4]]></name>
         <o>0,1.57, 1.57</o>
-        <translation>80, -100, 0</translation>
+        <translation>0, -100, 0</translation>
         <mime-type>model/md2</mime-type>
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
         <s>.2</s>
@@ -107,7 +109,7 @@
              <value><![CDATA[http://www.dallasvoice.com/exploring-spirituality-radical-faerie-style-1044232.html]]></value>
           </customization>
        </customizations>                            
-    </poi>
+    </poi-->
     
      <!-- poi id="6" cosid="4" interactionfeedback="click">
        <name><![CDATA[6]]></name>
