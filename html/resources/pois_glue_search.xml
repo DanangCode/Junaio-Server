@@ -4,7 +4,7 @@
     <poi id="1" cosid="3" interactionfeedback="click">
       <name><![CDATA[1]]></name>
         <o>0,1.57, 1.57</o>
-        <translation>30, 0, 0</translation>
+        <translation>0, 0, 0</translation>
         <mime-type>model/md2</mime-type>
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
         <s>.2</s>
@@ -69,7 +69,7 @@
     <poi id="4" cosid="3" interactionfeedback="none">
       <name><![CDATA[4]]></name>
         <o>0,1.57, 1.57</o>
-        <translation>70, -100, 0</translation>
+        <translation>0, -100, 0</translation>
         <mime-type>model/md2</mime-type>
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
         <s>.2</s>
@@ -91,7 +91,7 @@
     <poi id="5" cosid="3" interactionfeedback="click">
       <name><![CDATA[5]]></name>
         <o>0,1.57, 1.57</o>
-       <translation>60, -60, 0</translation>
+       <translation>0, -60, 0</translation>
        <mime-type>model/md2</mime-type>
        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
        <s>.2</s>
