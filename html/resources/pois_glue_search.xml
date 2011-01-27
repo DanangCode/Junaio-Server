@@ -118,6 +118,7 @@
          <mime-type>model/md2</mime-type>
          <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper6.png]]></mainresource>
          <s>.2</s>
+         <force3d>true</force3d>
          <resources>
             <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper6.png]]></resource>
          </resources>
@@ -139,6 +140,7 @@
          <mime-type>model/md2</mime-type>
          <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper7.png]]></mainresource>
           <s>.2</s>
+          <force3d>true</force3d>
           <resources>
              <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper7.png]]></resource>
           </resources>
