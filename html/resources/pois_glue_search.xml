@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <results trackingurl="http://oaktopia.hyperlocative.com/resources/tracking.xml_enc">
     
-    <poi id="1" cosid="3" interactionfeedback="none">
+    <poi id="1" cosid="2" interactionfeedback="none">
       <name><![CDATA[1]]></name>
         <o>0,1.57, 1.57</o>
         <translation>70, 20, 0</translation>
@@ -12,14 +12,14 @@
            <resources>
               <resource><![CDATA[http://farm5.static.flickr.com/4114/4750847094_8ae71c50d0_m.jpg]]></resource>
            </resources>
-         <!--customizations>
+         <customizations>
                  <customization>
                     <name>podcast</name>
                     <type>url</type>
                     <node_id>click</node_id>
                     <value><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]> </value>                     
                  </customization>
-          </customizations-->      
+          </customizations>      
     </poi> 
   
     <poi id="2" cosid="3" interactionfeedback="none">
@@ -31,17 +31,17 @@
        <s>.2</s>
        <force3d>true</force3d>
        <resources>
-          <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]></resource>
+          <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper.png]]></resource>
        </resources>
 
-         <!--customizations>
+         <customizations>
                  <customization>
                     <name>podcast</name>
                     <type>url</type>
                     <node_id>click</node_id>
-                    <value><![CDATA[http://playajoy.org]]></value>                     
+                    <value><![CDATA[http://www.youtube.com/watch?v=crBz8WJqeLI]]></value>                     
                  </customization>
-          </customizations-->
+          </customizations>
 </poi> 
      
  
@@ -123,7 +123,7 @@
                 <name>vid</name>
                 <type>video</type>
                 <node_id>click</node_id>
-                <value>http://oaktopia.hyperlocative.com/resources/04magazine.3gp</value>
+                <value>http://playajoy.org</value>
              </customization>
           </customizations>
                    
