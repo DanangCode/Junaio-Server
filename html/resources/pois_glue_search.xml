@@ -4,7 +4,7 @@
     <poi id="1" cosid="2" interactionfeedback="none">
       <name><![CDATA[1]]></name>
         <o>0,1.57, 1.57</o>
-        <translation>70, 20, 0</translation>
+        <translation>0, 0, 0</translation>
         <mime-type>model/md2</mime-type>
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
         <s>.2</s>
@@ -17,7 +17,7 @@
                     <name>podcast</name>
                     <type>url</type>
                     <node_id>click</node_id>
-                    <value><![CDATA[http://oaktopia.hyperlocative.com/resources/mag1-1.3gp]]> </value>                     
+                    <value><![CDATA[http://oaktopia.hyperlocative.com/resources/video/mag1-1.3gp]]> </value>                     
                  </customization>
           </customizations>      
     </poi> 
