@@ -4,7 +4,7 @@
     <poi id="1" cosid="1" interactionfeedback="none">
       <name><![CDATA[1]]></name>
         <o>0,1.57, 1.57</o>
-        <translation>0, -30, 0</translation>
+        <translation>0, -60, 0</translation>
         <mime-type>model/md2</mime-type>
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane1.md2_enc]]></mainresource>
         <s>.2</s>
@@ -25,7 +25,7 @@
     <poi id="2" cosid="2" interactionfeedback="none">
       <name><![CDATA[2]]></name>
        <o>0,1.57, 1.57</o>
-       <translation>0, -30, 0</translation>
+       <translation>0, -60, 0</translation>
        <mime-type>model/md2</mime-type>
        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane2.md2_enc]]></mainresource>
        <s>.2</s>
@@ -90,10 +90,10 @@
     </poi>
                
                
-    <poi id="5" cosid="5" interactionfeedback="click">
+    <poi id="5" cosid="5" interactionfeedback="none">
       <name><![CDATA[5]]></name>
         <o>0,1.57, 1.57</o>
-       <translation>60, -60, 0</translation>
+       <translation>60, -80, 0</translation>
        <mime-type>model/md2</mime-type>
        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane5.md2_enc]]></mainresource>
        <s>.2</s>
@@ -111,12 +111,12 @@
        </customizations>                            
     </poi>
     
-     <poi id="6" cosid="6" interactionfeedback="click">
+     <poi id="6" cosid="6" interactionfeedback="none">
        <name><![CDATA[6]]></name>
         <o>0,1.57, 1.57</o>
          <translation>0, -70, 0</translation>
          <mime-type>model/md2</mime-type>
-         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper6.png]]></mainresource>
+         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane6.md2_enc]]></mainresource>
          <s>.2</s>
          <force3d>true</force3d>
          <resources>
@@ -138,7 +138,7 @@
         <o>0,1.57, 1.57</o>
          <translation>0, 0, 0</translation>
          <mime-type>model/md2</mime-type>
-         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper7.png]]></mainresource>
+         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane7.md2_enc]]></mainresource>
           <s>.2</s>
           <force3d>true</force3d>
           <resources>
