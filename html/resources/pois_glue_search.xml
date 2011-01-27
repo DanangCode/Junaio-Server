@@ -12,14 +12,14 @@
            <resources>
               <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper1.png]]></resource>
            </resources>
-         <customizations>
-                 <customization>
-                    <name>podcast</name>
-                    <type>url</type>
-                    <node_id>click</node_id>
-                    <value><![CDATA[http://oaktopia.hyperlocative.com/resources/video/mag1-1.3gp]]> </value>                     
-                 </customization>
-          </customizations>      
+          <customizations>
+                   <customization>
+                      <name>podcast</name>
+                      <type>url</type>
+                      <node_id>click</node_id>
+                      <value><![CDATA[http://oaktopia.hyperlocative.com/resources/video/mag1-1.3gp]]></value>                     
+                   </customization>
+            </customizations>      
     </poi> 
   
     <poi id="2" cosid="2" interactionfeedback="none">
