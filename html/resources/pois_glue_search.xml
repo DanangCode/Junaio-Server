@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <results trackingurl="http://oaktopia.hyperlocative.com/resources/tracking.xml_enc">
     
-    <poi id="1" cosid="2" interactionfeedback="none">
+    <poi id="1" cosid="1" interactionfeedback="none">
       <name><![CDATA[1]]></name>
         <o>0,1.57, 1.57</o>
         <translation>0, -30, 0</translation>
         <mime-type>model/md2</mime-type>
-        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane1.md2_enc]]></mainresource>
         <s>.2</s>
         <force3d>true</force3d>
            <resources>
-              <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper3.png]]></resource>
+              <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper1.png]]></resource>
            </resources>
          <customizations>
                  <customization>
@@ -22,7 +22,7 @@
           </customizations>      
     </poi> 
   
-    <poi id="2" cosid="3" interactionfeedback="none">
+    <poi id="2" cosid="2" interactionfeedback="none">
       <name><![CDATA[2]]></name>
        <o>0,1.57, 1.57</o>
        <translation>0, -30, 0</translation>
@@ -31,7 +31,7 @@
        <s>.2</s>
        <force3d>true</force3d>
        <resources>
-          <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper.png]]></resource>
+          <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper2.png]]></resource>
        </resources>
 
          <customizations>
@@ -46,16 +46,16 @@
      
  
          
-    <poi id="3" cosid="4" interactionfeedback="none">
+    <poi id="3" cosid="3" interactionfeedback="none">
         <name><![CDATA[3]]></name>          
         <o>0,1.57, 1.57</o>
          <translation>-20, -100, 0</translation>
          <mime-type>model/md2</mime-type>
-         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane3.md2_enc]]></mainresource>
          <s>.2</s>
          <force3d>true</force3d>
         <resources>
-           <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper2.png]]></resource>
+           <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper3.png]]></resource>
         </resources>
 
          <customizations>
@@ -68,16 +68,16 @@
          </customizations>
     </poi>
             
-    <poi id="4" cosid="5" interactionfeedback="none">
+    <poi id="4" cosid="4" interactionfeedback="none">
       <name><![CDATA[4]]></name>
         <o>0,1.57, 1.57</o>
         <translation>0, -100, 0</translation>
         <mime-type>model/md2</mime-type>
-        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane4.md2_enc]]></mainresource>
         <s>.2</s>
         <force3d>true</force3d>
         <resources>
-           <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper5.png]]></resource>
+           <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper4.png]]></resource>
         </resources>
          <customizations>
              <customization>
@@ -90,16 +90,16 @@
     </poi>
                
                
-    <poi id="5" cosid="6" interactionfeedback="click">
+    <poi id="5" cosid="5" interactionfeedback="click">
       <name><![CDATA[5]]></name>
         <o>0,1.57, 1.57</o>
        <translation>60, -60, 0</translation>
        <mime-type>model/md2</mime-type>
-       <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane.md2_enc]]></mainresource>
+       <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane5.md2_enc]]></mainresource>
        <s>.2</s>
        <force3d>true</force3d>
         <resources>
-           <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper6.png]]></resource>
+           <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper5.png]]></resource>
         </resources>
        <customizations>
            <customization>
@@ -111,15 +111,15 @@
        </customizations>                            
     </poi>
     
-     <poi id="6" cosid="7" interactionfeedback="click">
+     <poi id="6" cosid="6" interactionfeedback="click">
        <name><![CDATA[6]]></name>
         <o>0,1.57, 1.57</o>
          <translation>0, -70, 0</translation>
          <mime-type>model/md2</mime-type>
-         <mainresource></mainresource>
+         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper6.png]]></mainresource>
          <s>.2</s>
          <resources>
-            <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper7.png]]></resource>
+            <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper6.png]]></resource>
          </resources>
          <customizations>
               <customization>
@@ -132,24 +132,28 @@
                    
       </poi>
       
-      <!--poi id="7" cosid="2" interactionfeedback="none">
+      <poi id="7" cosid="7" interactionfeedback="none">
         <name><![CDATA[7]]></name>
         <o>0,1.57, 1.57</o>
          <translation>0, 0, 0</translation>
          <mime-type>model/md2</mime-type>
-         <mainresource></mainresource>
-         <s>.2</s>
+         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper7.png]]></mainresource>
+          <s>.2</s>
+          <resources>
+             <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper7.png]]></resource>
+          </resources>
+         
          <customizations>
                 <customization>
                    <name>podcast</name>
                    <type>url</type>
                    <node_id>click</node_id>
-                   <value><![CDATA[http://hyperlocative.appspot.com/]]></value>                     
+                   <value>http://playajoy.org/?p=3047</value>                    
                 </customization>
          </customizations>
        </poi>
        
-       <poi id="8" cosid="5" interactionfeedback="click">
+       <!--poi id="8" cosid="5" interactionfeedback="click">
          <name><![CDATA[8]]></name>
           <o>0,1.57, 1.57</o>
            <translation>0, 0, 0</translation>
