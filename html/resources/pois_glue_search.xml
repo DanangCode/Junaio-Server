@@ -15,7 +15,7 @@
           <customizations>
                    <customization>
                       <name>podcast</name>
-                      <type>url</type>
+                      <type>video</type>
                       <node_id>click</node_id>
                       <value><![CDATA[http://oaktopia.hyperlocative.com/resources/video/mag1-1.3gp]]></value>                     
                    </customization>
@@ -61,7 +61,7 @@
          <customizations>
              <customization>
                <name>maps</name>
-               <type>url</type>
+               <type>video</type>
                <node_id>click</node_id>
                <value><![CDATA[http://oaktopia.hyperlocative.com/resources/video/04magazine.3gp]]></value>
             </customization>
@@ -104,7 +104,7 @@
        <customizations>
            <customization>
              <name>maps</name>
-             <type>url</type>
+             <type>video</type>
              <node_id>click</node_id>
              <value><![CDATA[http://www.youtube.com/watch?v=97VR1IdAG0E]]></value>
           </customization>
@@ -125,9 +125,9 @@
          <customizations>
               <customization>
                 <name>vid</name>
-                <type>video</type>
+                <type>url</type>
                 <node_id>click</node_id>
-                <value><![CDATA[]]></value>
+                <value><![CDATA[http://hyperlocative.appspot.com/geosearch/]]></value>
              </customization>
           </customizations>
                    
