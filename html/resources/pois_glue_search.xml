@@ -104,7 +104,7 @@
        <customizations>
            <customization>
              <name>maps</name>
-             <type>video</type>
+             <type>url</type>
              <node_id>click</node_id>
              <value><![CDATA[http://www.youtube.com/watch?v=97VR1IdAG0E]]></value>
           </customization>
