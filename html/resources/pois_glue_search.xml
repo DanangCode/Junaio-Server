@@ -113,7 +113,7 @@
     
      <poi id="6" cosid="6" interactionfeedback="none">
        <name><![CDATA[6]]></name>
-        <o>0,1.57, 1.57</o>
+        <o>0,0,0</o>
          <translation>0.0,-70.0,0.0</translation>
          <mime-type>model/md2</mime-type>
          <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane6.md2_enc]]></mainresource>
