@@ -74,7 +74,7 @@
         <translation>0.0,-100.0,0.0</translation>
         <mime-type>model/obj</mime-type>
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/tower.zip]]></mainresource>
-        <s>.2</s>
+        <s>2</s>
         <force3d>true</force3d>
         <resources>
            <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper4.png]]></resource>
