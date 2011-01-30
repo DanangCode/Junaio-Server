@@ -74,7 +74,7 @@
         <translation>0.0,-30.0,0.30</translation>
         <mime-type>model/obj</mime-type>
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/tower.zip]]></mainresource>
-        <s>10</s>
+        <s>5</s>
         <force3d>true</force3d>
         <resources>
            <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/doom/Cyberdemon/Cybershot.png]]></resource>
