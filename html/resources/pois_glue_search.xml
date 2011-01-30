@@ -70,8 +70,8 @@
             
     <poi id="4" cosid="4" interactionfeedback="none">
       <name><![CDATA[4]]></name>
-        <o>0,90,1.57</o>
-        <translation>0.0,-100.0,0.0</translation>
+        <o>0,90,90</o>
+        <translation>0.0,-300.0,0.30</translation>
         <mime-type>model/obj</mime-type>
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/tower.zip]]></mainresource>
         <s>10</s>
