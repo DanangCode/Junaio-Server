@@ -73,11 +73,11 @@
         <o>0,0,90</o>
         <translation>0.0,-30.0,0.30</translation>
         <mime-type>model/obj</mime-type>
-        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/tower.zip]]></mainresource>
+        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/doom/plant/model.md2_enc]]></mainresource>
         <s>5</s>
         <force3d>true</force3d>
         <resources>
-           <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/doom/Cyberdemon/Cybershot.png]]></resource>
+           <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/doom/plant/plant2.png]]></resource>
         </resources>
          
     </poi>
