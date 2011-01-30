@@ -72,21 +72,14 @@
       <name><![CDATA[4]]></name>
         <o>0,1.57,1.57</o>
         <translation>0.0,-100.0,0.0</translation>
-        <mime-type>model/md2</mime-type>
-        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane4.md2_enc]]></mainresource>
+        <mime-type>model/obj</mime-type>
+        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/obj/tower.zip]]></mainresource>
         <s>.2</s>
         <force3d>true</force3d>
         <resources>
            <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper4.png]]></resource>
         </resources>
-         <customizations>
-             <customization>
-               <name>maps</name>
-               <type>url</type>
-               <node_id>click</node_id>
-               <value><![CDATA[http://parallelsf.posterous.com/tag/issue1]]></value>
-            </customization>
-         </customizations>
+         
     </poi>
                
                
@@ -127,7 +120,7 @@
                 <name>vid</name>
                 <type>url</type>
                 <node_id>click</node_id>
-                <value><![CDATA[http://hyperlocative.appspot.com/geosearch/]]></value>
+                <value><![CDATA[http://hyperlocative.appspot.com/iphone-app/]]></value>
              </customization>
           </customizations>
                    
@@ -142,7 +135,7 @@
           <s>.2</s>
           <force3d>true</force3d>
           <resources>
-             <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper7-1.png]]></resource>
+             <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper7.png]]></resource>
           </resources>
          
          <customizations>
