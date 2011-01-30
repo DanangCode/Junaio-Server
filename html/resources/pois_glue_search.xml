@@ -70,11 +70,11 @@
             
     <poi id="4" cosid="4" interactionfeedback="none">
       <name><![CDATA[4]]></name>
-        <o>0,0,90</o>
+        <o>90,90,90</o>
         <translation>0.0,-30.0,0.30</translation>
         <mime-type>model/obj</mime-type>
         <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/doom/plant/model.md2_enc]]></mainresource>
-        <s>5</s>
+        <s>2</s>
         <force3d>true</force3d>
         <resources>
            <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/doom/plant/plant2.png]]></resource>
