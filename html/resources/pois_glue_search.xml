@@ -58,12 +58,13 @@
            <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper3.png]]></resource>
         </resources>
 
+         
          <customizations>
              <customization>
                <name>maps</name>
-               <type>video</type>
+               <type>url</type>
                <node_id>click</node_id>
-               <value><![CDATA[http://oaktopia.hyperlocative.com/resources/video/04magazine.3gp]]></value>
+               <value><![CDATA[http://parallelsf.posterous.com/faerie-photos]]></value>
             </customization>
          </customizations>
     </poi>
@@ -82,7 +83,30 @@
          
     </poi>
                
-               
+        
+     
+     <poi id="4-2" cosid="4" interactionfeedback="none">
+       <name><![CDATA[4-2]]></name>
+         <o>0,1.57,1.57</o>
+        <translation>60.0,-20.0,0.0</translation>
+        <mime-type>model/md2</mime-type>
+        <mainresource><![CDATA[http://oaktopia.hyperlocative.com/resources/3d/plane4.md2_enc]]></mainresource>
+        <s>.2</s>
+        <force3d>true</force3d>
+         <resources>
+            <resource><![CDATA[http://oaktopia.hyperlocative.com/resources/jpeg/jasper4.png]]></resource>
+         </resources>
+          <customizations>
+               <customization>
+                 <name>maps</name>
+                 <type>video</type>
+                 <node_id>click</node_id>
+                 <value><![CDATA[http://oaktopia.hyperlocative.com/resources/video/04magazine.3gp]]></value>
+              </customization>
+           </customizations>                        
+     </poi>
+     
+          
     <poi id="5" cosid="5" interactionfeedback="none">
       <name><![CDATA[5]]></name>
         <o>0,1.57,1.57</o>
