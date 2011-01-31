@@ -8,7 +8,7 @@
           <o>0,0,0</o>
           <mime-type>model/md2</mime-type>
            <mainresource>http://oaktopia.hyperlocative.com/resources/doom/plant/model.md2_enc</mainresource>
-           <s>50</s>
+           <s>100</s>
            <force3d>true</force3d>
            <resources>
               <resource>http://oaktopia.hyperlocative.com/resources/doom/plant/plant2.png</resource> 
@@ -26,7 +26,7 @@
              <o>0,0,0</o>
              <mime-type>model/md2</mime-type>
              <mainresource>http://oaktopia.hyperlocative.com/resources/doom/plant/model.md2_enc</mainresource>
-             <s>50</s>
+             <s>100</s>
              <force3d>true</force3d>
              <resources>
                 <resource>http://oaktopia.hyperlocative.com/resources/doom/plant/plant2.png</resource> 
@@ -42,7 +42,7 @@
                  <o>0,0,0</o>
                  <mime-type>model/md2</mime-type>
                  <mainresource>http://oaktopia.hyperlocative.com/resources/doom/plant/model.md2_enc</mainresource>
-                 <s>50</s>
+                 <s>100</s>
                  <force3d>true</force3d>
                  <resources>
                     <resource>http://oaktopia.hyperlocative.com/resources/doom/plant/plant2.png</resource> 
