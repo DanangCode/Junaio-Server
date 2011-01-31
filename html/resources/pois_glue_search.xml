@@ -21,7 +21,8 @@
                    </customization>
             </customizations>      
     </poi> 
-  <o>0,1.57,1.57</o>
+
+
     <poi id="2" cosid="2" interactionfeedback="none">
       <name><![CDATA[2]]></name>
        <o>0,1.57,1.57</o>
@@ -42,7 +43,7 @@
                     <value><![CDATA[http://parallelsf.posterous.com/exploring-spirituality-in-radical-faerie-styl]]></value>                     
                  </customization>
           </customizations>
-</poi> 
+    </poi> 
      
  
          
@@ -83,9 +84,7 @@
          
     </poi>
                
-        
-     
-     <poi id="4-2" cosid="4" interactionfeedback="none">
+    <poi id="4-2" cosid="4" interactionfeedback="none">
        <name><![CDATA[4-2]]></name>
          <o>0,1.57,1.57</o>
         <translation>60.0,-20.0,0.0</translation>

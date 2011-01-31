@@ -1,54 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <results>  
        <poi id="1" interactionfeedback="click">
-          <name><![CDATA[3D World]]></name>
+          <name><![CDATA[mama buzz]]></name>
           <author>YOU</author>
           <date/>
-          <l>37.805037,-122.294655,0</l>
+          <l>37.812815,-122.268617,0</l>
           <o>0,0,0</o>
-          <mime-type>model/md2</mime-type>           <mainresource>http://oaktopia.hyperlocative.com/resources/model/mymodel.md2_enc</mainresource>
-          <force3d>true</force3d>
-          <s>1000</s>        
-          <resources>
-             <resource>http://oaktopia.hyperlocative.com/resources/model/mymodelstexture.png</resource>
-          </resources>
-          <thumbnail>http://oaktopia.hyperlocative.com/resources/model/mymodelsthumb.png</thumbnail>
+          <mime-type>model/md2</mime-type>
+           <mainresource>http://oaktopia.hyperlocative.com/resources/doom/plant/model.md2_enc</mainresource>
+           <s>.7</s>
+           <force3d>true</force3d>
+           <resources>
+              <resource>http://oaktopia.hyperlocative.com/resources/doom/plant/plant2.png</resource> 
+           </resources>
+          <thumbnail>http://oaktopia.hyperlocative.com/resources/jasper_100.png</thumbnail>
           <icon>http://oaktopia.hyperlocative.com/resources/jasper_100.png</icon>    
-            <behaviours>
-                <behaviour type="idle">
-                   <length>0</length>
-                   <node_id>idle</node_id>
-                </behaviour>
-                <behaviour type="click">
-                   <length>0</length>
-                   <node_id>idle</node_id>
-                </behaviour>
-             </behaviours>
+ 
          </poi>  
       
-        <poi id="poi3" interactionfeedback="click">
-             <name><![CDATA[Ein UFO]]></name>
+        <poi id="sonoma" interactionfeedback="none">
+             <name><![CDATA[sonoma coffee]]></name>
              <author>metaio GmbH</author>
              <date/>
-             <l>37.806156,-122.295814,0</l>
+             <l>37.866977,-122.265902,0</l>
              <o>0,0,0</o>
              <mime-type>model/md2</mime-type>
-             <mainresource>http://www.junaio.com/publisherDownload/tutorial/ufo3.md2_enc</mainresource>
-             <route>false</route>
-             <s>15</s>
+             <mainresource>http://oaktopia.hyperlocative.com/resources/doom/plant/model.md2_enc</mainresource>
+             <s>.7</s>
              <force3d>true</force3d>
              <resources>
-                <resource>http://www.junaio.com/publisherDownload/tutorial/texture_ufo.png</resource> 
+                <resource>http://oaktopia.hyperlocative.com/resources/doom/plant/plant2.png</resource> 
              </resources>
-             <behaviours>
-                <behaviour type="idle">
-                   <length>0</length>
-                   <node_id>idle</node_id>
-                </behaviour>
-                <behaviour type="click">
-                   <length>0</length>
-                   <node_id>explosion</node_id>
-                </behaviour>
-             </behaviours>
-          </poi>   
+       
+          </poi>
+          
+           <poi id="caferev" interactionfeedback="none">
+                 <name><![CDATA[cafe rev]]></name>
+                 <author>jasper</author>
+                 <date/>
+                 <l>37.806291,-122.298452,0</l>
+                 <o>0,0,0</o>
+                 <mime-type>model/md2</mime-type>
+                 <mainresource>http://oaktopia.hyperlocative.com/resources/doom/plant/model.md2_enc</mainresource>
+                 <s>.7</s>
+                 <force3d>true</force3d>
+                 <resources>
+                    <resource>http://oaktopia.hyperlocative.com/resources/doom/plant/plant2.png</resource> 
+                 </resources>
+
+              </poi>   
 </results>
