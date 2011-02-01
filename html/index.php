@@ -30,7 +30,7 @@ else
 	
 $aUrl = explode('/', $path);
 
-$xmlFilePoisSearchPath = "resources/pois_search.xml";
+$xmlFilePoisSearchPath = "http://dl.dropbox.com/u/5529462/pois_glue_search.xml";
 //$xmlFilePoisSearchPath = "https://dl-web.dropbox.com/get/junaio/pois_search.xml?w=c31998da";
 $xmlFilePoisEventPath = $xmlFilePoisSearchPath;
 
